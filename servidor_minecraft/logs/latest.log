@@ -100,3 +100,428 @@
 [01:45:31] [Server thread/INFO]: Pikemaruya has made the advancement [Sweet Dreams]
 [01:45:39] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
 [01:45:39] [Server thread/INFO]: Pikemaruya left the game
+[01:53:08] [User Authenticator #3/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[01:53:10] [Server thread/INFO]: Pikemaruya joined the game
+[01:53:10] [Server thread/INFO]: Pikemaruya[/127.204.113.126:57387] logged in with entity id 3207 at ([world]-306.36969425674476, 63.5625, -17.75322727674439)
+[01:53:30] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[01:53:30] [Server thread/INFO]: Pikemaruya left the game
+[01:53:33] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[01:53:37] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[01:53:37] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[01:53:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:53:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:53:37] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:53:37] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:53:37] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:53:37] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:53:37] [WebSocketConnectReadThread-100/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:53:38] [Server thread/INFO]: Loaded 1290 recipes
+[01:53:38] [Server thread/INFO]: Loaded 1399 advancements
+[01:53:38] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:53:38] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[01:53:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2158ms.
+[01:53:40] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[01:53:40] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
+[01:53:40] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:53:42] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:53:42] [Server thread/INFO]: [floodgate] Took 1,996ms to boot Floodgate
+[01:53:42] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[01:53:44] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:53:44] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:53:44] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[01:53:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:53:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[01:53:46] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[01:53:47] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[01:53:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:53:48] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:53:48] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[01:53:48] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[01:53:48] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[01:53:48] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[01:53:48] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[01:53:48] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[01:53:48] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[01:53:48] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[01:53:48] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[01:53:48] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:53:48] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[01:53:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:53:49] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:53:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:53:50] [Server thread/INFO]: [Geyser-Spigot] 
+[01:53:50] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
+[01:53:50] [Server thread/INFO]: [Geyser-Spigot] 
+[01:53:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:54:00] [epollEventLoopGroup-9-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[01:54:00] [Server thread/INFO]: [Geyser-Spigot] Done (10.126s)! Run /geyser help for help!
+[01:54:00] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[01:54:00] [Server thread/INFO]: CONSOLE: Reload complete.
+[01:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23243ms or 464 ticks behind
+[01:54:00] [Server thread/INFO]: Timings Reset
+[01:54:05] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[01:54:10] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[01:54:10] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[01:54:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:54:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:54:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[01:54:10] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:54:10] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:54:10] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:54:10] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:54:10] [WebSocketConnectReadThread-179/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:54:11] [Server thread/INFO]: Loaded 1290 recipes
+[01:54:11] [Server thread/INFO]: Loaded 1399 advancements
+[01:54:11] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:54:11] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[01:54:11] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
+[01:54:11] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:54:13] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:54:13] [Server thread/INFO]: [floodgate] Took 2,053ms to boot Floodgate
+[01:54:13] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[01:54:15] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:54:15] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:54:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[01:54:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:54:15] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[01:54:16] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[01:54:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[01:54:17] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[01:54:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:54:18] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:54:18] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[01:54:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[01:54:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[01:54:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[01:54:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[01:54:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[01:54:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[01:54:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[01:54:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[01:54:18] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:54:18] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[01:54:18] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.7
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 7eff058
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:54:18] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:54:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:54:19] [Server thread/INFO]: [Geyser-Spigot] 
+[01:54:19] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
+[01:54:19] [Server thread/INFO]: [Geyser-Spigot] 
+[01:54:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:54:20] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[01:54:31] [epollEventLoopGroup-15-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[01:54:31] [Server thread/INFO]: [Geyser-Spigot] Done (11.563s)! Run /geyser help for help!
+[01:54:31] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[01:54:31] [Server thread/INFO]: CONSOLE: Reload complete.
+[01:54:31] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[01:54:31] [Server thread/INFO]: Timings Reset
+[01:54:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16343ms or 326 ticks behind
+[01:54:34] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[01:54:34] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[01:54:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:54:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:54:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[01:54:34] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:54:34] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:54:34] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:54:34] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:54:34] [WebSocketConnectReadThread-226/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:54:34] [Server thread/INFO]: Loaded 1290 recipes
+[01:54:34] [Server thread/INFO]: Loaded 1399 advancements
+[01:54:34] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:54:35] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[01:54:35] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
+[01:54:35] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:54:36] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:54:36] [Server thread/INFO]: [floodgate] Took 1,562ms to boot Floodgate
+[01:54:36] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[01:54:39] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:54:39] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:54:39] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[01:54:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:54:39] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[01:54:39] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[01:54:40] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[01:54:40] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[01:54:41] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:54:41] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:54:41] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[01:54:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[01:54:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[01:54:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[01:54:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[01:54:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[01:54:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[01:54:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[01:54:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[01:54:41] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:54:41] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[01:54:41] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.7
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 7eff058
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:54:42] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:54:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:54:43] [Server thread/INFO]: [Geyser-Spigot] 
+[01:54:43] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
+[01:54:43] [Server thread/INFO]: [Geyser-Spigot] 
+[01:54:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:54:53] [epollEventLoopGroup-21-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[01:54:53] [Server thread/INFO]: [Geyser-Spigot] Done (10.436s)! Run /geyser help for help!
+[01:54:53] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[01:54:53] [Server thread/INFO]: CONSOLE: Reload complete.
+[01:54:53] [Server thread/INFO]: Timings Reset
+[01:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7012ms or 140 ticks behind
+[01:55:31] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[01:55:33] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[01:55:33] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[01:55:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:55:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:55:33] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[01:55:33] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:55:33] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:55:33] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:55:33] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:55:34] [WebSocketConnectReadThread-269/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:55:34] [Server thread/INFO]: Loaded 1290 recipes
+[01:55:34] [Server thread/INFO]: Loaded 1399 advancements
+[01:55:34] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:55:34] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[01:55:34] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
+[01:55:34] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:55:36] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:55:36] [Server thread/INFO]: [floodgate] Took 2,009ms to boot Floodgate
+[01:55:36] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[01:55:39] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:55:39] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:55:39] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[01:55:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:55:39] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[01:55:39] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[01:55:40] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[01:55:40] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[01:55:41] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:55:41] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:55:41] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[01:55:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[01:55:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[01:55:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[01:55:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[01:55:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[01:55:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[01:55:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[01:55:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[01:55:41] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:55:41] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[01:55:41] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.7
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 7eff058
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:55:42] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:55:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:55:43] [Server thread/INFO]: [Geyser-Spigot] 
+[01:55:43] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
+[01:55:43] [Server thread/INFO]: [Geyser-Spigot] 
+[01:55:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:55:53] [epollEventLoopGroup-27-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[01:55:53] [Server thread/INFO]: [Geyser-Spigot] Done (10.366s)! Run /geyser help for help!
+[01:55:53] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[01:55:54] [Server thread/INFO]: CONSOLE: Reload complete.
+[01:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20475ms or 409 ticks behind
+[01:55:54] [Server thread/INFO]: Timings Reset
+[01:56:02] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[01:56:05] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[01:56:05] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[01:56:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:56:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:56:05] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[01:56:05] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:56:05] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:56:05] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:56:05] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:56:05] [WebSocketConnectReadThread-313/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:56:05] [Server thread/INFO]: Loaded 1290 recipes
+[01:56:05] [Server thread/INFO]: Loaded 1399 advancements
+[01:56:06] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:56:06] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[01:56:06] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
+[01:56:06] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:56:07] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[01:56:07] [Server thread/INFO]: [floodgate] Took 1,473ms to boot Floodgate
+[01:56:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[01:56:10] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:56:10] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:56:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[01:56:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:56:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[01:56:10] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
+[01:56:11] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[01:56:11] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[01:56:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:56:12] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
+[01:56:12] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
+[01:56:12] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
+[01:56:12] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
+[01:56:12] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
+[01:56:12] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
+[01:56:12] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
+[01:56:12] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
+[01:56:12] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
+[01:56:12] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[01:56:12] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[01:56:12] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
+[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
+[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
+[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
+[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
+[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
+[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
+[01:56:12] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.7
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 7eff058
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:56:13] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[01:56:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:56:13] [Server thread/INFO]: [Geyser-Spigot] 
+[01:56:13] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
+[01:56:13] [Server thread/INFO]: [Geyser-Spigot] 
+[01:56:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:56:20] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[01:56:24] [epollEventLoopGroup-33-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[01:56:24] [Server thread/INFO]: [Geyser-Spigot] Done (10.464s)! Run /geyser help for help!
+[01:56:24] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[01:56:24] [Server thread/INFO]: CONSOLE: Reload complete.
+[01:56:24] [Server thread/INFO]: Timings Reset
+[01:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15609ms or 312 ticks behind
+[01:57:15] [User Authenticator #4/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[01:57:17] [Server thread/INFO]: Pikemaruya joined the game
+[01:57:17] [Server thread/INFO]: Pikemaruya[/127.204.113.126:57627] logged in with entity id 3431 at ([world]-306.65857611150835, 63.5625, -17.29899850561187)
