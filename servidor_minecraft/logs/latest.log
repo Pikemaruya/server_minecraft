@@ -61,3 +61,14 @@
 [22:00:38] [Async Chat Thread - #1/INFO]: [Not Secure] <Pikemaruya> -325 75 118
 [22:15:17] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
 [22:15:17] [Server thread/INFO]: Pikemaruya left the game
+[22:18:12] [User Authenticator #1/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[22:18:14] [Server thread/INFO]: Pikemaruya joined the game
+[22:18:14] [Server thread/INFO]: Pikemaruya[/127.204.113.126:60677] logged in with entity id 12618 at ([world_nether]-325.69999998807907, 70.0, 80.79274725687208)
+[22:19:05] [User Authenticator #1/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[22:19:07] [Server thread/INFO]: Simnov joined the game
+[22:19:07] [Server thread/INFO]: Simnov[/127.26.226.121:36191] logged in with entity id 12884 at ([world]455.7683595023707, 63.0, -173.94801094554603)
+[22:22:00] [Server thread/INFO]: Simnov lost connection: Disconnected
+[22:22:00] [Server thread/INFO]: Simnov left the game
+[22:23:01] [User Authenticator #2/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[22:23:03] [Server thread/INFO]: Simnov joined the game
+[22:23:03] [Server thread/INFO]: Simnov[/127.26.226.121:51123] logged in with entity id 14170 at ([world]486.2337700117537, 64.0, -116.8062380099903)
