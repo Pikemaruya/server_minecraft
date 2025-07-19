@@ -78,3 +78,8 @@
 [23:03:11] [Server thread/WARN]: Oak Boat (vehicle of juanchipe7) moved wrongly! 0.34527735303687357
 [23:13:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Simnov> 500 -130
 [23:25:12] [Server thread/INFO]: Simnov has made the advancement [Ol' Betsy]
+[23:38:09] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[23:38:09] [Server thread/INFO]: juanchipe7 left the game
+[23:38:15] [User Authenticator #4/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[23:38:17] [Server thread/INFO]: juanchipe7 joined the game
+[23:38:17] [Server thread/INFO]: juanchipe7[/127.174.93.140:34717] logged in with entity id 63849 at ([world]1582.2322882890858, 78.0, 2288.300000011921)
