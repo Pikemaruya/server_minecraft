@@ -75,3 +75,18 @@
 [19:13:24] [Server thread/INFO]: Simnov[/127.232.216.24:38051] logged in with entity id 49389 at ([world]510.81775557527993, -21.0, 76.02197917774441)
 [19:22:17] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
 [19:22:17] [Server thread/INFO]: Pikemaruya left the game
+[19:38:46] [Server thread/INFO]: Simnov lost connection: Disconnected
+[19:38:46] [Server thread/INFO]: Simnov left the game
+[19:39:17] [User Authenticator #4/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[19:39:19] [Server thread/INFO]: Pikemaruya joined the game
+[19:39:19] [Server thread/INFO]: Pikemaruya[/127.204.113.126:36153] logged in with entity id 53853 at ([world]-2511.293816426331, 73.0, -853.8482842897517)
+[19:40:12] [User Authenticator #4/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[19:40:14] [Server thread/INFO]: Simnov joined the game
+[19:40:14] [Server thread/INFO]: Simnov[/127.232.216.24:45847] logged in with entity id 54159 at ([world]438.0804754974143, -7.0, -43.14631423519379)
+[19:46:34] [Server thread/INFO]: Simnov lost connection: Disconnected
+[19:46:34] [Server thread/INFO]: Simnov left the game
+[19:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[19:46:38] [User Authenticator #5/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[19:46:40] [Server thread/INFO]: Simnov joined the game
+[19:46:40] [Server thread/INFO]: Simnov[/127.232.216.24:48987] logged in with entity id 56349 at ([world]477.69999998807907, 62.0, -132.69999998807907)
+[19:46:52] [Server thread/INFO]: Pikemaruya has made the advancement [We Need to Go Deeper]
