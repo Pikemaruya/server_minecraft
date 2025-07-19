@@ -1,1151 +1,277 @@
-[01:29:18] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[01:29:18] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[01:29:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:29:18] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[01:29:20] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
-[01:29:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:29:31] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[01:29:31] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[01:29:34] [ServerMain/INFO]: No existing world data, creating new world
-[01:29:36] [ServerMain/INFO]: Loaded 1290 recipes
-[01:29:36] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 15320ms.
-[01:29:36] [ServerMain/INFO]: Loaded 1399 advancements
-[01:29:36] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:29:36] [Server thread/INFO]: Loading properties
-[01:29:37] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[01:29:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:29:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:29:38] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:29:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:29:39] [Server thread/INFO]: Default game type: SURVIVAL
-[01:29:39] [Server thread/INFO]: Generating keypair
-[01:29:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:29:39] [Server thread/INFO]: Using epoll channel type
-[01:29:39] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:29:39] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[01:29:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:29:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:29:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:29:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:29:39] [Server thread/INFO]: Preparing level "world"
-[01:29:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:30:11] [Server thread/INFO]: Time elapsed: 14321 ms
-[01:30:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:30:13] [Server thread/INFO]: Time elapsed: 1767 ms
-[01:30:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:30:14] [Server thread/INFO]: Time elapsed: 713 ms
-[01:30:14] [Server thread/INFO]: [spark] Starting background profiler...
-[01:30:15] [Server thread/INFO]: Done preparing level "world" (35.361s)
-[01:30:15] [Server thread/INFO]: Running delayed init tasks
-[01:30:15] [Server thread/INFO]: Done (58.928s)! For help, type "help"
-[01:30:15] [Server thread/INFO]: *************************************************************************************
-[01:30:15] [Server thread/INFO]: This is the first time you're starting this server.
-[01:30:15] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[01:30:15] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[01:30:15] [Server thread/INFO]: *************************************************************************************
-[01:30:15] [Server thread/INFO]: Timings Reset
-[01:31:03] [User Authenticator #0/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[01:31:05] [Server thread/INFO]: Pikemaruya joined the game
-[01:31:05] [Server thread/INFO]: Pikemaruya[/127.204.113.126:52415] logged in with entity id 102 at ([world]-29.5, 71.0, 136.5)
-[01:31:12] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[01:31:12] [Server thread/INFO]: Pikemaruya left the game
-[01:33:56] [User Authenticator #1/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[01:33:58] [Server thread/INFO]: Pikemaruya joined the game
-[01:33:58] [Server thread/INFO]: Pikemaruya[/127.204.113.126:60987] logged in with entity id 178 at ([world]-25.899996254218095, 71.0, 133.9821199083657)
-[01:36:28] [Server thread/INFO]: Made Pikemaruya a server operator
-[01:37:58] [Server thread/INFO]: Pikemaruya has made the advancement [Stone Age]
-[01:38:54] [Server thread/INFO]: Pikemaruya has made the advancement [Getting an Upgrade]
-[01:40:59] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[01:40:59] [Server thread/INFO]: Pikemaruya left the game
-[01:41:12] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[01:41:20] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[01:41:20] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[01:41:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:41:20] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:41:21] [Server thread/INFO]: Loaded 1290 recipes
-[01:41:21] [Server thread/INFO]: Loaded 1399 advancements
-[01:41:22] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:41:22] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/floodgate-spigot.jar'...
-[01:41:30] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/floodgate-spigot.jar' in 7422ms.
-[01:41:30] [Server thread/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[01:41:30] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (2):
- - Geyser-Spigot (2.8.2-SNAPSHOT), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[01:41:30] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:41:35] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[01:41:35] [Server thread/INFO]: [floodgate] Took 4,367ms to boot Floodgate
-[01:41:35] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[01:41:39] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[01:41:39] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[01:41:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:41:39] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:41:41] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:41:42] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:41:42] [Server thread/INFO]: [Geyser-Spigot] 
-[01:41:42] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[01:41:42] [Server thread/INFO]: [Geyser-Spigot] 
-[01:41:42] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:41:55] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[01:41:55] [Server thread/INFO]: [Geyser-Spigot] Done (12.861s)! Run /geyser help for help!
-[01:41:55] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
-[01:41:55] [Thread-6/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
-[01:41:55] [Thread-11/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
-[01:41:55] [Server thread/INFO]: CONSOLE: Reload complete.
-[01:41:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35770ms or 715 ticks behind
-[01:41:55] [Server thread/INFO]: Timings Reset
-[01:41:56] [Thread-11/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
-[01:42:12] [User Authenticator #2/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[01:42:14] [Server thread/INFO]: Pikemaruya joined the game
-[01:42:14] [Server thread/INFO]: Pikemaruya[/127.204.113.126:39053] logged in with entity id 2366 at ([world]-294.70068892718587, 64.0, -46.03275683866315)
-[01:43:38] [Server thread/INFO]: Pikemaruya has made the advancement [Monster Hunter]
-[01:45:31] [Server thread/INFO]: Pikemaruya has made the advancement [Sweet Dreams]
-[01:45:39] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[01:45:39] [Server thread/INFO]: Pikemaruya left the game
-[01:53:08] [User Authenticator #3/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[01:53:10] [Server thread/INFO]: Pikemaruya joined the game
-[01:53:10] [Server thread/INFO]: Pikemaruya[/127.204.113.126:57387] logged in with entity id 3207 at ([world]-306.36969425674476, 63.5625, -17.75322727674439)
-[01:53:30] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[01:53:30] [Server thread/INFO]: Pikemaruya left the game
-[01:53:33] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[01:53:37] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[01:53:37] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[01:53:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:53:37] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:53:37] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:53:37] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:53:37] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:53:37] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:53:37] [WebSocketConnectReadThread-100/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[01:53:38] [Server thread/INFO]: Loaded 1290 recipes
-[01:53:38] [Server thread/INFO]: Loaded 1399 advancements
-[01:53:38] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:53:38] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[01:53:40] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2158ms.
-[01:53:40] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[01:53:40] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[01:53:40] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:53:42] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[01:53:42] [Server thread/INFO]: [floodgate] Took 1,996ms to boot Floodgate
-[01:53:42] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[01:53:44] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[01:53:44] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[01:53:44] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[01:53:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:53:44] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[01:53:46] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[01:53:47] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[01:53:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:53:48] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:53:48] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[01:53:48] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[01:53:48] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[01:53:48] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[01:53:48] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[01:53:48] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[01:53:48] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[01:53:48] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[01:53:48] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[01:53:48] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[01:53:48] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[01:53:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[01:53:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[01:53:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:53:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:53:49] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:53:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:53:50] [Server thread/INFO]: [Geyser-Spigot] 
-[01:53:50] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[01:53:50] [Server thread/INFO]: [Geyser-Spigot] 
-[01:53:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:54:00] [epollEventLoopGroup-9-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[01:54:00] [Server thread/INFO]: [Geyser-Spigot] Done (10.126s)! Run /geyser help for help!
-[01:54:00] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
-[01:54:00] [Server thread/INFO]: CONSOLE: Reload complete.
-[01:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23243ms or 464 ticks behind
-[01:54:00] [Server thread/INFO]: Timings Reset
-[01:54:05] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[01:54:10] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[01:54:10] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[01:54:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:54:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:54:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[01:54:10] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:54:10] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:54:10] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:54:10] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:54:10] [WebSocketConnectReadThread-179/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[01:54:11] [Server thread/INFO]: Loaded 1290 recipes
-[01:54:11] [Server thread/INFO]: Loaded 1399 advancements
-[01:54:11] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:54:11] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[01:54:11] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[01:54:11] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:54:13] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[01:54:13] [Server thread/INFO]: [floodgate] Took 2,053ms to boot Floodgate
-[01:54:13] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[01:54:15] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[01:54:15] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[01:54:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[01:54:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:54:15] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[01:54:16] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[01:54:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[01:54:17] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[01:54:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:54:18] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:54:18] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[01:54:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[01:54:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[01:54:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[01:54:18] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[01:54:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[01:54:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[01:54:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[01:54:18] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[01:54:18] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[01:54:18] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[01:54:18] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[01:54:18] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[01:54:18] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.7
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 7eff058
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:54:18] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:54:18] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:54:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:54:19] [Server thread/INFO]: [Geyser-Spigot] 
-[01:54:19] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[01:54:19] [Server thread/INFO]: [Geyser-Spigot] 
-[01:54:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:54:20] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
-[01:54:31] [epollEventLoopGroup-15-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[01:54:31] [Server thread/INFO]: [Geyser-Spigot] Done (11.563s)! Run /geyser help for help!
-[01:54:31] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
-[01:54:31] [Server thread/INFO]: CONSOLE: Reload complete.
-[01:54:31] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[01:54:31] [Server thread/INFO]: Timings Reset
-[01:54:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16343ms or 326 ticks behind
-[01:54:34] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[01:54:34] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[01:54:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:54:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:54:34] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[01:54:34] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:54:34] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:54:34] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:54:34] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:54:34] [WebSocketConnectReadThread-226/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[01:54:34] [Server thread/INFO]: Loaded 1290 recipes
-[01:54:34] [Server thread/INFO]: Loaded 1399 advancements
-[01:54:34] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:54:35] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[01:54:35] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[01:54:35] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:54:36] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[01:54:36] [Server thread/INFO]: [floodgate] Took 1,562ms to boot Floodgate
-[01:54:36] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[01:54:39] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[01:54:39] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[01:54:39] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[01:54:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:54:39] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[01:54:39] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[01:54:40] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[01:54:40] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[01:54:41] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:54:41] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:54:41] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[01:54:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[01:54:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[01:54:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[01:54:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[01:54:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[01:54:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[01:54:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[01:54:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[01:54:41] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[01:54:41] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[01:54:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[01:54:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[01:54:41] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.7
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 7eff058
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:54:41] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:54:42] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:54:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:54:43] [Server thread/INFO]: [Geyser-Spigot] 
-[01:54:43] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[01:54:43] [Server thread/INFO]: [Geyser-Spigot] 
-[01:54:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:54:53] [epollEventLoopGroup-21-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[01:54:53] [Server thread/INFO]: [Geyser-Spigot] Done (10.436s)! Run /geyser help for help!
-[01:54:53] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
-[01:54:53] [Server thread/INFO]: CONSOLE: Reload complete.
-[01:54:53] [Server thread/INFO]: Timings Reset
-[01:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7012ms or 140 ticks behind
-[01:55:31] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[01:55:33] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[01:55:33] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[01:55:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:55:33] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:55:33] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[01:55:33] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:55:33] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:55:33] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:55:33] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:55:34] [WebSocketConnectReadThread-269/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[01:55:34] [Server thread/INFO]: Loaded 1290 recipes
-[01:55:34] [Server thread/INFO]: Loaded 1399 advancements
-[01:55:34] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:55:34] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[01:55:34] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[01:55:34] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:55:36] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[01:55:36] [Server thread/INFO]: [floodgate] Took 2,009ms to boot Floodgate
-[01:55:36] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[01:55:39] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[01:55:39] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[01:55:39] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[01:55:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:55:39] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[01:55:39] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[01:55:40] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[01:55:40] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[01:55:41] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:55:41] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:55:41] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[01:55:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[01:55:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[01:55:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[01:55:41] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[01:55:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[01:55:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[01:55:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[01:55:41] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[01:55:41] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[01:55:41] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[01:55:41] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[01:55:41] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[01:55:41] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.7
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 7eff058
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:55:41] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:55:42] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:55:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:55:43] [Server thread/INFO]: [Geyser-Spigot] 
-[01:55:43] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[01:55:43] [Server thread/INFO]: [Geyser-Spigot] 
-[01:55:43] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:55:53] [epollEventLoopGroup-27-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[01:55:53] [Server thread/INFO]: [Geyser-Spigot] Done (10.366s)! Run /geyser help for help!
-[01:55:53] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
-[01:55:54] [Server thread/INFO]: CONSOLE: Reload complete.
-[01:55:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20475ms or 409 ticks behind
-[01:55:54] [Server thread/INFO]: Timings Reset
-[01:56:02] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[01:56:05] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[01:56:05] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[01:56:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:56:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:56:05] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[01:56:05] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:56:05] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[01:56:05] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[01:56:05] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:56:05] [WebSocketConnectReadThread-313/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[01:56:05] [Server thread/INFO]: Loaded 1290 recipes
-[01:56:05] [Server thread/INFO]: Loaded 1399 advancements
-[01:56:06] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:56:06] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[01:56:06] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[01:56:06] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:56:07] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[01:56:07] [Server thread/INFO]: [floodgate] Took 1,473ms to boot Floodgate
-[01:56:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[01:56:10] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[01:56:10] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[01:56:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[01:56:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:56:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[01:56:10] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[01:56:11] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[01:56:11] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[01:56:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:56:12] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[01:56:12] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[01:56:12] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[01:56:12] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[01:56:12] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[01:56:12] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[01:56:12] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[01:56:12] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[01:56:12] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[01:56:12] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[01:56:12] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[01:56:12] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[01:56:12] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[01:56:12] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[01:56:12] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.7
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 7eff058
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:56:12] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:56:13] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[01:56:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:56:13] [Server thread/INFO]: [Geyser-Spigot] 
-[01:56:13] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[01:56:13] [Server thread/INFO]: [Geyser-Spigot] 
-[01:56:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[01:56:20] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
-[01:56:24] [epollEventLoopGroup-33-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[01:56:24] [Server thread/INFO]: [Geyser-Spigot] Done (10.464s)! Run /geyser help for help!
-[01:56:24] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
-[01:56:24] [Server thread/INFO]: CONSOLE: Reload complete.
-[01:56:24] [Server thread/INFO]: Timings Reset
-[01:56:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15609ms or 312 ticks behind
-[01:57:15] [User Authenticator #4/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[01:57:17] [Server thread/INFO]: Pikemaruya joined the game
-[01:57:17] [Server thread/INFO]: Pikemaruya[/127.204.113.126:57627] logged in with entity id 3431 at ([world]-306.65857611150835, 63.5625, -17.29899850561187)
-[02:01:39] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[02:01:39] [Server thread/INFO]: Pikemaruya left the game
-[02:06:03] [User Authenticator #5/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[02:06:04] [Server thread/INFO]: Pikemaruya joined the game
-[02:06:04] [Server thread/INFO]: Pikemaruya[/127.204.113.126:53305] logged in with entity id 4203 at ([world]-341.79956818452723, 41.0, 2.699999988079071)
-[02:06:06] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[02:06:06] [Server thread/INFO]: Pikemaruya left the game
-[02:07:53] [User Authenticator #6/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[02:07:55] [Server thread/INFO]: juanchipe7 joined the game
-[02:07:55] [Server thread/INFO]: juanchipe7[/127.174.93.140:54555] logged in with entity id 4346 at ([world]-30.5, 68.0, 121.5)
-[02:08:05] [User Authenticator #6/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[02:08:06] [Server thread/INFO]: Pikemaruya joined the game
-[02:08:06] [Server thread/INFO]: Pikemaruya[/127.204.113.126:48319] logged in with entity id 4472 at ([world]-341.79956818452723, 41.0, 2.699999988079071)
-[02:10:26] [Server thread/INFO]: juanchipe7 has made the advancement [Stone Age]
-[02:10:55] [Server thread/INFO]: juanchipe7 has made the advancement [Monster Hunter]
-[02:11:35] [Server thread/INFO]: Pikemaruya has made the advancement [Acquire Hardware]
-[02:12:03] [Server thread/INFO]: Pikemaruya has made the advancement [Isn't It Iron Pick]
-[02:13:49] [Server thread/INFO]: Pikemaruya has made the advancement [Not Today, Thank You]
-[02:14:04] [Server thread/INFO]: Pikemaruya has made the advancement [Diamonds!]
-[02:14:48] [Server thread/INFO]: juanchipe7 has made the advancement [Getting an Upgrade]
-[02:17:04] [Server thread/INFO]: Pikemaruya has made the advancement [Take Aim]
-[02:19:32] [Server thread/INFO]: juanchipe7 has made the advancement [Acquire Hardware]
-[02:21:49] [Server thread/INFO]: Pikemaruya has made the advancement [Hot Stuff]
-[02:24:25] [Server thread/INFO]: juanchipe7 has made the advancement [Isn't It Iron Pick]
-[02:28:43] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[02:28:44] [Server thread/INFO]: Pikemaruya left the game
-[02:29:00] [Server thread/INFO]: juanchipe7 has made the advancement [Ice Bucket Challenge]
-[02:30:57] [User Authenticator #7/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[02:30:59] [Server thread/INFO]: Pikemaruya joined the game
-[02:30:59] [Server thread/INFO]: Pikemaruya[/127.204.113.126:42499] logged in with entity id 13881 at ([world]-362.96469830583237, -47.0, 66.35063172157066)
-[02:31:21] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[02:31:21] [Server thread/INFO]: Pikemaruya left the game
-[02:33:25] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[02:33:27] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[02:33:27] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[02:33:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:33:27] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:33:28] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[02:33:28] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[02:33:28] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[02:33:28] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[02:33:28] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[02:33:28] [WebSocketConnectReadThread-359/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[02:33:29] [Server thread/INFO]: Loaded 1290 recipes
-[02:33:29] [Server thread/INFO]: Loaded 1399 advancements
-[02:33:29] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:33:29] [Server thread/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[02:33:29] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (3):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[02:33:30] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[02:33:33] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[02:33:34] [Server thread/INFO]: [floodgate] Took 3,793ms to boot Floodgate
-[02:33:34] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[02:33:38] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[02:33:38] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[02:33:38] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[02:33:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:33:38] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[02:33:38] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[02:33:41] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[02:33:41] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[02:33:42] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:33:42] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[02:33:42] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[02:33:42] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[02:33:42] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[02:33:42] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[02:33:42] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[02:33:42] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[02:33:42] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[02:33:42] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[02:33:42] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[02:33:42] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[02:33:42] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[02:33:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[02:33:42] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[02:33:42] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[02:33:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[02:33:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[02:33:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[02:33:42] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.7
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 7eff058
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:33:42] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:33:43] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[02:33:44] [Paper Async Command Builder Thread Pool - 9/ERROR]: Caught previously unhandled exception :
-[02:33:44] [Paper Async Command Builder Thread Pool - 9/ERROR]: Paper Async Command Builder Thread Pool - 9
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:33:45] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:33:45] [Server thread/INFO]: [Geyser-Spigot] 
-[02:33:45] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[02:33:45] [Server thread/INFO]: [Geyser-Spigot] 
-[02:33:45] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:33:56] [epollEventLoopGroup-39-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
-[02:33:56] [Server thread/INFO]: [Geyser-Spigot] Done (11.648s)! Run /geyser help for help!
-[02:33:56] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21.7). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
-[02:33:57] [Server thread/INFO]: CONSOLE: Reload complete.
-[02:33:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29273ms or 585 ticks behind
-[02:33:57] [Server thread/INFO]: Timings Reset
-[02:34:03] [User Authenticator #8/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[02:34:06] [Server thread/INFO]: Simnov joined the game
-[02:34:06] [Server thread/INFO]: Simnov[/127.232.216.24:46411] logged in with entity id 14505 at ([world]-25.5, 67.0, 128.5)
-[02:38:47] [User Authenticator #9/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[02:38:48] [Server thread/INFO]: Pikemaruya joined the game
-[02:38:48] [Server thread/INFO]: Pikemaruya[/127.204.113.126:41375] logged in with entity id 15953 at ([world]-356.93966548136035, -50.0, 72.89560890907647)
-[02:39:27] [Async Chat Thread - #0/INFO]: [Not Secure] <Pikemaruya> -350 71
-[02:39:47] [Server thread/INFO]: Pikemaruya has made the advancement [Suit Up]
-[02:41:45] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[02:41:45] [Server thread/INFO]: Pikemaruya left the game
-[02:41:57] [User Authenticator #10/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[02:41:58] [Server thread/INFO]: Pikemaruya joined the game
-[02:41:58] [Server thread/INFO]: Pikemaruya[/127.204.113.126:38931] logged in with entity id 17583 at ([world]-355.944855990127, -50.0, 73.17540498191981)
-[02:42:16] [Server thread/INFO]: Simnov has made the advancement [Stone Age]
-[02:42:26] [Server thread/INFO]: Simnov has made the advancement [Monster Hunter]
-[02:42:34] [Server thread/INFO]: juanchipe7 has made the advancement [Best Friends Forever]
-[02:44:09] [Server thread/INFO]: Simnov has made the advancement [Getting an Upgrade]
-[02:44:30] [Server thread/INFO]: Pikemaruya has made the advancement [Ice Bucket Challenge]
-[02:45:43] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[02:45:43] [Server thread/INFO]: Pikemaruya left the game
-[02:45:53] [Server thread/INFO]: Simnov lost connection: Disconnected
-[02:45:53] [Server thread/INFO]: Simnov left the game
-[02:48:21] [Async Chat Thread - #1/INFO]: [Not Secure] <juanchipe7> 550 -147
-[02:48:36] [Server thread/INFO]: juanchipe7 has made the advancement [What a Deal!]
-[02:48:52] [Server thread/INFO]: juanchipe7 has made the advancement [Sweet Dreams]
-[02:48:58] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[02:49:02] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[02:49:02] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[02:49:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:49:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:49:02] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[02:49:02] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[02:49:02] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[02:49:03] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[02:49:03] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[02:49:03] [WebSocketConnectReadThread-488/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[02:49:03] [Server thread/INFO]: Loaded 1290 recipes
-[02:49:03] [Server thread/INFO]: Loaded 1399 advancements
-[02:49:04] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:49:04] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[02:49:04] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[02:49:06] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[02:49:09] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[02:49:09] [Server thread/INFO]: [floodgate] Took 3,216ms to boot Floodgate
-[02:49:09] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[02:49:09] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[02:49:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[02:49:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[02:49:16] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[02:49:20] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[02:49:20] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[02:49:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[02:49:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:49:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[02:49:20] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
-[02:49:20] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[02:49:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[02:49:22] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[02:49:24] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:49:24] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[02:49:24] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[02:49:24] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[02:49:24] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[02:49:24] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[02:49:24] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[02:49:24] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[02:49:24] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[02:49:24] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[02:49:24] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[02:49:24] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[02:49:24] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[02:49:24] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[02:49:24] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[02:49:24] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[02:49:24] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[02:49:24] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[02:49:24] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[02:49:24] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.7
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 7eff058
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:49:24] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:49:25] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[02:49:25] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[02:49:26] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[02:49:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:49:27] [Server thread/INFO]: [Geyser-Spigot] 
-[02:49:27] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[02:49:27] [Server thread/INFO]: [Geyser-Spigot] 
-[02:49:27] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:49:39] [epollEventLoopGroup-45-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
-[02:49:39] [Server thread/INFO]: [Geyser-Spigot] Done (12.467s)! Run /geyser help for help!
-[02:49:40] [Server thread/INFO]: CONSOLE: Reload complete.
-[02:49:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37832ms or 756 ticks behind
-[02:49:40] [Server thread/INFO]: Timings Reset
-[02:49:40] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[02:49:40] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[02:49:40] [Server thread/INFO]: juanchipe7 left the game
-[02:49:41] [User Authenticator #11/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[02:49:42] [Server thread/INFO]: juanchipe7 joined the game
-[02:49:42] [Server thread/INFO]: juanchipe7[/127.174.93.140:37313] logged in with entity id 20615 at ([world]544.5, 64.0, -168.5)
-[02:49:51] [User Authenticator #11/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[02:49:54] [Server thread/INFO]: Simnov joined the game
-[02:49:54] [Server thread/INFO]: Simnov[/127.232.216.24:45239] logged in with entity id 20628 at ([world]21.479916498406386, 33.0, 263.69999998807907)
-[02:52:09] [Async Chat Thread - #3/INFO]: [Not Secure] <juanchipe7> 550 -147
-[02:53:28] [Server thread/INFO]: juanchipe7 fell from a high place
-[02:55:12] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[02:55:21] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[02:55:21] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[02:55:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:55:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:55:21] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[02:55:21] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[02:55:21] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[02:55:21] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[02:55:21] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
-[02:55:21] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[02:55:21] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[02:55:21] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[02:55:21] [WebSocketConnectReadThread-589/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[02:55:21] [Server thread/INFO]: Loaded 1290 recipes
-[02:55:21] [Server thread/INFO]: Loaded 1399 advancements
-[02:55:22] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:55:22] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[02:55:22] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[02:55:23] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[02:55:24] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[02:55:25] [Server thread/INFO]: [floodgate] Took 1,537ms to boot Floodgate
-[02:55:25] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[02:55:25] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[02:55:25] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
-[02:55:26] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[02:55:27] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[02:55:29] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[02:55:31] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[02:55:31] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[02:55:31] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[02:55:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:55:31] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[02:55:31] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[02:55:32] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[02:55:32] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[02:55:33] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:55:33] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[02:55:34] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[02:55:34] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[02:55:34] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[02:55:34] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[02:55:34] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[02:55:34] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[02:55:34] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[02:55:34] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[02:55:34] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[02:55:34] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[02:55:34] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[02:55:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[02:55:34] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[02:55:34] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[02:55:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[02:55:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[02:55:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[02:55:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.7
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 7eff058
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:55:34] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:55:35] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[02:55:35] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[02:55:35] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[02:55:36] [Paper Async Command Builder Thread Pool - 15/ERROR]: Caught previously unhandled exception :
-[02:55:36] [Paper Async Command Builder Thread Pool - 15/ERROR]: Paper Async Command Builder Thread Pool - 15
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[02:55:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:55:36] [Server thread/INFO]: [Geyser-Spigot] 
-[02:55:36] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[02:55:36] [Server thread/INFO]: [Geyser-Spigot] 
-[02:55:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[02:55:47] [epollEventLoopGroup-51-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
-[02:55:47] [Server thread/INFO]: [Geyser-Spigot] Done (10.844s)! Run /geyser help for help!
-[02:55:47] [Server thread/INFO]: CONSOLE: Reload complete.
-[02:55:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26602ms or 532 ticks behind
-[02:55:47] [Server thread/INFO]: Timings Reset
-[02:55:47] [Server thread/WARN]: juanchipe7 moved too quickly! -17.01468554394694,-17.0,-3.2299549565362895
-[02:55:47] [Craft Scheduler Thread - 7 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[02:57:48] [Server thread/INFO]: ---- Showing Help For: Geyser (Page 1/1) ----
-[02:57:48] [Server thread/INFO]: /geyser connectiontest: Tests whether your server is reachable for other players
-[02:57:48] [Server thread/INFO]: /geyser dump: Dumps Geyser debug information for bug reports.
-[02:57:48] [Server thread/INFO]: /geyser help: Shows help for all registered commands.
-[02:57:48] [Server thread/INFO]: /geyser list: List all players connected through Geyser.
-[02:57:48] [Server thread/INFO]: /geyser reload: Reloads the Geyser configurations. Kicks all players when used!
-[02:57:48] [Server thread/INFO]: /geyser version: Shows the current Geyser version and checks for updates.
-[02:58:03] [Server thread/INFO]: Unknown or incomplete command, see below for error
-...ectiontest<--[HERE]
-[02:58:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
-...ectiontest<--[HERE]
-[02:58:24] [User Authenticator #12/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[02:58:25] [Server thread/INFO]: Pikemaruya joined the game
-[02:58:25] [Server thread/INFO]: Pikemaruya[/127.204.113.126:40711] logged in with entity id 24615 at ([world]-331.3986100638183, -55.0, 64.70034037785327)
-[02:58:31] [Server thread/INFO]: Pikemaruya issued server command: /geyser connectiontest
-[02:58:34] [Server thread/INFO]: Pikemaruya issued server command: /geyser connectiontest
-[02:58:40] [Server thread/INFO]: Pikemaruya issued server command: /geyser connectiontest a
-[02:59:15] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[02:59:15] [Server thread/INFO]: Pikemaruya left the game
-[03:00:53] [Server thread/WARN]: Simnov was kicked for floating too long!
-[03:00:53] [Server thread/INFO]: Simnov lost connection: Flying is not enabled on this server
-[03:00:53] [Server thread/INFO]: Simnov left the game
-[03:01:19] [User Authenticator #13/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[03:01:19] [Server thread/INFO]: juanchipe7 lost connection: You logged in from another location
-[03:01:19] [Server thread/INFO]: juanchipe7 left the game
-[03:01:20] [Server thread/INFO]: juanchipe7 joined the game
-[03:01:20] [Server thread/INFO]: juanchipe7[/127.174.93.140:57443] logged in with entity id 25614 at ([world]816.667877993912, -16.0, -197.54182260600658)
-[03:01:26] [User Authenticator #13/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[03:01:28] [Server thread/INFO]: Simnov joined the game
-[03:01:28] [Server thread/INFO]: Simnov[/127.232.216.24:43935] logged in with entity id 25619 at ([world]511.5396756995585, 64.11130333872785, -195.37702089675815)
-[03:02:09] [User Authenticator #13/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[03:02:09] [Server thread/INFO]: Simnov lost connection: You logged in from another location
-[03:02:09] [Server thread/INFO]: Simnov left the game
-[03:02:10] [User Authenticator #13/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[03:02:10] [Server thread/INFO]: juanchipe7 lost connection: You logged in from another location
-[03:02:10] [Server thread/INFO]: juanchipe7 left the game
-[03:02:11] [Server thread/INFO]: Simnov joined the game
-[03:02:11] [Server thread/INFO]: Simnov[/127.232.216.24:43321] logged in with entity id 25877 at ([world]527.8661689734438, 63.0, -186.18671385402362)
-[03:02:11] [Server thread/INFO]: juanchipe7 joined the game
-[03:02:11] [Server thread/INFO]: juanchipe7[/127.174.93.140:34433] logged in with entity id 25878 at ([world]815.9191556074258, -16.0, -195.87493233281765)
-[03:02:36] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[03:02:36] [Server thread/INFO]: juanchipe7 left the game
-[03:03:05] [Server thread/INFO]: Simnov has made the advancement [Sweet Dreams]
-[03:03:28] [User Authenticator #14/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[03:03:29] [Server thread/INFO]: juanchipe7 joined the game
-[03:03:29] [Server thread/INFO]: juanchipe7[/127.174.93.140:46883] logged in with entity id 26240 at ([world]815.9191556074258, -16.0, -195.87493233281765)
-[03:03:47] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[03:03:51] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[03:03:51] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[03:03:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:03:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:03:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[03:03:52] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[03:03:52] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[03:03:52] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[03:03:52] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
-[03:03:52] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[03:03:52] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[03:03:52] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[03:03:52] [WebSocketConnectReadThread-670/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[03:03:53] [Server thread/INFO]: Loaded 1290 recipes
-[03:03:53] [Server thread/INFO]: Loaded 1399 advancements
-[03:03:53] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:03:54] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[03:03:54] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[03:03:55] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[03:03:57] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[03:03:58] [Server thread/INFO]: [floodgate] Took 2,854ms to boot Floodgate
-[03:03:58] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[03:03:58] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[03:03:58] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
-[03:04:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[03:04:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[03:04:04] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[03:04:07] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[03:04:07] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[03:04:07] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[03:04:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:04:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[03:04:07] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[03:04:09] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[03:04:09] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[03:04:10] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:04:10] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[03:04:10] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[03:04:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[03:04:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[03:04:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[03:04:10] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[03:04:10] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[03:04:10] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[03:04:10] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[03:04:10] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[03:04:10] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[03:04:10] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[03:04:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[03:04:10] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[03:04:10] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[03:04:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[03:04:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[03:04:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[03:04:10] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.7
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: 7eff058
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:04:10] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:04:11] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[03:04:11] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[03:04:11] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[03:04:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:04:13] [Server thread/INFO]: [Geyser-Spigot] 
-[03:04:13] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[03:04:13] [Server thread/INFO]: [Geyser-Spigot] 
-[03:04:13] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:04:20] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
-[03:04:24] [epollEventLoopGroup-57-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
-[03:04:24] [Server thread/INFO]: [Geyser-Spigot] Done (11.389s)! Run /geyser help for help!
-[03:04:25] [Server thread/INFO]: CONSOLE: Reload complete.
-[03:04:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33487ms or 669 ticks behind
-[03:04:25] [Server thread/INFO]: Timings Reset
-[03:04:25] [Craft Scheduler Thread - 10 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[03:04:25] [Server thread/INFO]: Simnov lost connection: Disconnected
-[03:04:25] [Server thread/INFO]: Simnov left the game
-[03:04:25] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[03:04:25] [Server thread/INFO]: juanchipe7 left the game
-[03:08:21] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
-[03:08:25] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[03:08:25] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[03:08:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:08:25] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:08:25] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[03:08:25] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[03:08:25] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[03:08:25] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[03:08:25] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
-[03:08:25] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling. If this is a reload and you experience issues, please reboot instead.
-[03:08:25] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[03:08:25] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[03:08:25] [WebSocketConnectReadThread-775/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[03:08:25] [Server thread/INFO]: Loaded 1290 recipes
-[03:08:25] [Server thread/INFO]: Loaded 1399 advancements
-[03:08:25] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[03:08:26] [Server thread/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[03:08:26] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.7), ViaVersion (5.4.1), floodgate (2.2.4-SNAPSHOT (b117-b469c0c))
-[03:08:27] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[03:08:28] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[03:08:29] [Server thread/INFO]: [floodgate] Took 1,629ms to boot Floodgate
-[03:08:29] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.1
-[03:08:29] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.1 is now loaded. Registering protocol transformers and injecting...
-[03:08:29] [Server thread/ERROR]: [ViaVersion] ViaVersion is already loaded, this should work fine. If you get any console errors, try rebooting.
-[03:08:30] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[03:08:30] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[03:08:31] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
-[03:08:33] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[03:08:33] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[03:08:33] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[03:08:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:08:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[03:08:33] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[03:08:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[03:08:34] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[03:08:35] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[03:08:35] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[03:08:35] [Server thread/WARN]: java.lang.IllegalArgumentException: Duplicate handler name: floodgate-init
-[03:08:35] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.checkDuplicateName(DefaultChannelPipeline.java:1055)
-[03:08:35] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.filterName(DefaultChannelPipeline.java:284)
-[03:08:35] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:160)
-[03:08:35] [Server thread/WARN]: 	at io.netty.channel.DefaultChannelPipeline.addFirst(DefaultChannelPipeline.java:152)
-[03:08:35] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.injectClient(SpigotInjector.java:110)
-[03:08:35] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.inject.spigot.SpigotInjector.inject(SpigotInjector.java:95)
-[03:08:35] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.FloodgatePlatform.enable(FloodgatePlatform.java:71)
-[03:08:35] [Server thread/WARN]: 	at floodgate-spigot.jar//org.geysermc.floodgate.SpigotPlugin.onEnable(SpigotPlugin.java:70)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
-[03:08:35] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
-[03:08:35] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:640)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:589)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.reload(CraftServer.java:1132)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:1027)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:59)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:165)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1000)
-[03:08:35] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:985)
-[03:08:35] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:526)
-[03:08:35] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:474)
-[03:08:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1598)
-[03:08:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304)
-[03:08:35] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330)
-[03:08:35] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.7.7
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: 7eff058
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[03:08:35] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[03:08:36] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.1
-[03:08:36] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[03:08:36] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
-[03:08:37] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:08:37] [Server thread/INFO]: [Geyser-Spigot] 
-[03:08:37] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b885 (git-master-853207b)
-[03:08:37] [Server thread/INFO]: [Geyser-Spigot] 
-[03:08:37] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[03:08:46] [epollEventLoopGroup-63-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
-[03:08:46] [Server thread/INFO]: [Geyser-Spigot] Done (9.311s)! Run /geyser help for help!
-[03:08:46] [Server thread/INFO]: CONSOLE: Reload complete.
-[03:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21857ms or 437 ticks behind
-[03:08:46] [Server thread/INFO]: Timings Reset
-[03:08:47] [Craft Scheduler Thread - 12 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[03:09:32] [Server thread/INFO]: Stopping the server
-[03:09:32] [Server thread/INFO]: Stopping server
-[03:09:32] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[03:09:32] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.2-SNAPSHOT
-[03:09:32] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[03:09:32] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[03:09:32] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.1
-[03:09:32] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[03:09:32] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b117-b469c0c)
-[03:09:32] [Server thread/INFO]: Saving players
-[03:09:32] [Server thread/INFO]: Saving worlds
-[03:09:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:09:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:09:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:09:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:09:32] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 87 entity chunks, 0 poi chunks in world 'world' in 0.04s
-[03:09:32] [WebSocketConnectReadThread-844/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[03:09:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:09:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:09:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:09:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:09:33] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.37s
-[03:09:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:09:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:09:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:09:33] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:09:33] [Server thread/INFO]: [ChunkHolderManager] Saved 792 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.41s
-[03:09:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:09:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:09:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:09:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:21:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[03:21:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[03:21:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:21:08] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[03:21:08] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.7.7)
+[03:21:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:21:17] [ServerMain/INFO]: Loaded 1290 recipes
+[03:21:17] [ServerMain/INFO]: Loaded 1399 advancements
+[03:21:18] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:21:18] [Server thread/INFO]: Loading properties
+[03:21:18] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[03:21:18] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:21:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:21:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:21:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:21:20] [Server thread/INFO]: Default game type: SURVIVAL
+[03:21:20] [Server thread/INFO]: Generating keypair
+[03:21:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:21:20] [Server thread/INFO]: Using epoll channel type
+[03:21:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:21:20] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[03:21:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[03:21:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:21:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[03:21:24] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[03:21:26] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:21:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:21:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:21:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:21:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:21:26] [Server thread/INFO]: Preparing level "world"
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:21:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:21:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:21:29] [Server thread/INFO]: Time elapsed: 1861 ms
+[03:21:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:21:29] [Server thread/INFO]: Time elapsed: 254 ms
+[03:21:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:21:29] [Server thread/INFO]: Time elapsed: 254 ms
+[03:21:29] [Server thread/INFO]: [spark] Starting background profiler...
+[03:21:30] [Server thread/INFO]: Done preparing level "world" (3.822s)
+[03:21:30] [Server thread/INFO]: Running delayed init tasks
+[03:21:30] [Server thread/INFO]: Done (23.925s)! For help, type "help"
+[03:21:30] [Server thread/INFO]: Timings Reset
+[03:22:15] [User Authenticator #0/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[03:22:18] [Server thread/INFO]: Simnov joined the game
+[03:22:18] [Server thread/INFO]: Simnov[/127.232.216.24:42903] logged in with entity id 23 at ([world]558.8316365409006, 67.9152008638929, -219.98077883740896)
+[03:22:27] [User Authenticator #0/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[03:22:28] [Server thread/INFO]: juanchipe7 joined the game
+[03:22:28] [Server thread/INFO]: juanchipe7[/127.174.93.140:41627] logged in with entity id 363 at ([world]812.2432186974285, -16.0, -196.47576816560942)
+[03:22:37] [User Authenticator #0/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[03:22:39] [Server thread/INFO]: Pikemaruya joined the game
+[03:22:39] [Server thread/INFO]: Pikemaruya[/127.204.113.126:36677] logged in with entity id 564 at ([world]-330.30000001192093, -54.0, 65.33697101775914)
+[03:22:57] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[03:22:57] [Server thread/INFO]: juanchipe7 left the game
+[03:23:14] [Server thread/INFO]: Pikemaruya issued server command: /gamerule playersSleepingPercentage 1
+[03:23:14] [Server thread/INFO]: [Pikemaruya: Gamerule playersSleepingPercentage is now set to: 1]
+[03:25:18] [User Authenticator #1/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[03:25:19] [Server thread/INFO]: juanchipe7 joined the game
+[03:25:19] [Server thread/INFO]: juanchipe7[/127.174.93.140:40539] logged in with entity id 1516 at ([world]814.3426317437741, -16.0, -196.6638518039004)
+[03:25:50] [Server thread/INFO]: Simnov has made the advancement [The Parrots and the Bats]
+[03:26:14] [Server thread/INFO]: juanchipe7 was slain by Zombie
+[03:38:28] [Server thread/INFO]: Pikemaruya has made the advancement [Best Friends Forever]
+[03:38:57] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.5309090104166216
+[03:38:57] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.5309090104166216
+[03:38:57] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.5309090104166216
+[03:38:57] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.5309090104166216
+[03:38:57] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.5309090104166216
+[03:38:57] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.5229049412888003
+[03:42:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Simnov> 468 -130
+[03:47:18] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[03:47:18] [Server thread/INFO]: juanchipe7 left the game
+[03:55:04] [User Authenticator #2/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[03:55:05] [Server thread/INFO]: juanchipe7 joined the game
+[03:55:05] [Server thread/INFO]: juanchipe7[/127.174.93.140:48153] logged in with entity id 16053 at ([world]483.98974181860103, 3.0, -6.752637695149591)
+[03:58:16] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.31714662536853666
+[03:58:16] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.6032689465903331
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.8541507290411801
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.086176001816284
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.308683986763299
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.541687779054655
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.8254673689076526
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.2073151731893859
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 2.630033105485836
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.9430155857382942
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.7118042306017287
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.3986537112068618
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.0416591787079597
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.661204588952387
+[03:58:17] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.2681969903019308
+[03:58:44] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.33387980812278784
+[03:58:44] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.7111763458278801
+[03:58:45] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.141037095841284
+[03:58:45] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.3726329699329407
+[03:58:45] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.499370287701717
+[03:58:45] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.5678693217793844
+[04:00:12] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.43513655371270943
+[04:00:12] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.9090597755650833
+[04:00:12] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.3798688155859509
+[04:00:12] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.8487417532571726
+[04:00:12] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 2.316578721162614
+[04:00:12] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 2.7838613623014226
+[04:00:15] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.32135139700631044
+[04:00:15] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.6613653963808019
+[04:00:15] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.0
+[04:00:24] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.4246264096568666
+[04:00:24] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.9045399459710097
+[04:00:24] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.3782331863637864
+[04:00:24] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.8435198633272876
+[04:00:24] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 2.3017335983746534
+[04:00:24] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 2.756162743221921
+[04:02:10] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.35727083324400155
+[04:02:10] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 0.8396294941209419
+[04:02:10] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.0
+[04:02:10] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.0
+[04:02:10] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.0
+[04:02:11] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.0
+[04:02:11] [Server thread/WARN]: Horse (vehicle of Pikemaruya) moved wrongly! 1.0
+[04:03:12] [Server thread/INFO]: juanchipe7 has made the advancement [Diamonds!]
+[04:03:24] [Server thread/INFO]: Pikemaruya issued server command: /scoreboard objectives add vida health
+[04:03:24] [Server thread/INFO]: [Pikemaruya: Created new objective [vida]]
+[04:03:34] [Server thread/INFO]: Pikemaruya issued server command: /scoreboard objectives setdisplay list vida
+[04:03:34] [Server thread/INFO]: [Pikemaruya: Set display slot list to show objective vida]
+[04:06:48] [Server thread/INFO]: juanchipe7 has made the advancement [Take Aim]
+[04:12:25] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[04:12:26] [Server thread/INFO]: juanchipe7 left the game
+[04:14:22] [User Authenticator #3/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[04:14:24] [Server thread/INFO]: juanchipe7 joined the game
+[04:14:24] [Server thread/INFO]: juanchipe7[/127.174.93.140:38271] logged in with entity id 30467 at ([world]448.69999998807907, 38.02426210903457, -16.47181938557155)
+[04:14:28] [Server thread/INFO]: juanchipe7 drowned
+[04:14:33] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[04:14:33] [Server thread/INFO]: juanchipe7 left the game
+[04:14:56] [User Authenticator #3/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[04:14:58] [Server thread/INFO]: juanchipe7 joined the game
+[04:14:58] [Server thread/INFO]: juanchipe7[/127.174.93.140:47359] logged in with entity id 31146 at ([world]448.69999998807907, 35.0, -16.47181938557155)
+[04:17:14] [Server thread/INFO]: juanchipe7 was slain by Zombie
+[04:36:46] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[04:36:46] [Server thread/INFO]: Pikemaruya left the game
+[04:45:53] [Server thread/INFO]: juanchipe7 has made the advancement [Suit Up]
+[04:47:21] [User Authenticator #4/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[04:47:23] [Server thread/INFO]: Pikemaruya joined the game
+[04:47:23] [Server thread/INFO]: Pikemaruya[/127.204.113.126:32941] logged in with entity id 57327 at ([world]5195.0646323253295, 93.0, -1266.4183364333207)
+[04:50:37] [Server thread/INFO]: You whisper to Simnov: hola
+[04:51:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/tell juanchipe7 skip<--[HERE]
+[04:54:35] [Server thread/INFO]: Simnov lost connection: Disconnected
+[04:54:35] [Server thread/INFO]: Simnov left the game
+[04:54:45] [User Authenticator #5/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[04:54:47] [Server thread/INFO]: Simnov joined the game
+[04:54:47] [Server thread/INFO]: Simnov[/127.232.216.24:33883] logged in with entity id 64500 at ([world]412.69999998807907, 15.0, -73.30000001192093)
+[04:55:30] [Server thread/INFO]: Simnov lost connection: Disconnected
+[04:55:30] [Server thread/INFO]: Simnov left the game
+[04:55:34] [User Authenticator #5/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[04:55:36] [Server thread/INFO]: Simnov joined the game
+[04:55:36] [Server thread/INFO]: Simnov[/127.232.216.24:40925] logged in with entity id 65477 at ([world]389.43586293400887, -5.0, -79.41812785443015)
+[04:55:49] [Server thread/INFO]: Villager Villager['Villager'/65380, uuid='ba6d4cb5-b1a3-4d9b-9932-4988a762f334', l='ServerLevel[world]', x=2336.63, y=70.56, z=129.28, cpos=[146, 8], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[04:56:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/tell juanchipe7 hola<--[HERE]
+[04:56:33] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/msg juanchipe7 hola<--[HERE]
+[04:59:27] [Server thread/INFO]: Simnov has made the advancement [Acquire Hardware]
+[05:01:05] [Server thread/INFO]: Simnov has made the advancement [Isn't It Iron Pick]
+[05:22:03] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[05:22:03] [Server thread/INFO]: juanchipe7 left the game
+[05:22:20] [User Authenticator #6/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[05:22:21] [Server thread/INFO]: juanchipe7 joined the game
+[05:22:21] [Server thread/INFO]: juanchipe7[/127.174.93.140:50069] logged in with entity id 92226 at ([world]3710.394543437104, 61.193128021863785, 114.48083358807656)
+[05:26:13] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[05:26:13] [Server thread/INFO]: Pikemaruya left the game
+[05:26:18] [User Authenticator #7/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[05:26:19] [Server thread/INFO]: Pikemaruya joined the game
+[05:26:19] [Server thread/INFO]: Pikemaruya[/127.204.113.126:54251] logged in with entity id 95521 at ([world]4202.674756721173, 120.0625, 1524.092222224685)
+[05:27:49] [Server thread/WARN]: juanchipe7 moved wrongly!
+[05:30:45] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[05:30:45] [Server thread/INFO]: Pikemaruya left the game
+[05:30:49] [User Authenticator #8/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[05:30:51] [Server thread/INFO]: Pikemaruya joined the game
+[05:30:51] [Server thread/INFO]: Pikemaruya[/127.204.113.126:38241] logged in with entity id 99449 at ([world]4225.480631028475, 131.0, 1521.300000011921)
+[05:31:15] [Server thread/INFO]: Pikemaruya has reached the goal [Postmortal]
+[05:34:48] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[05:34:48] [Server thread/INFO]: Pikemaruya left the game
+[05:56:28] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[05:56:28] [Server thread/INFO]: juanchipe7 left the game
+[05:56:50] [User Authenticator #9/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[05:56:51] [Server thread/INFO]: juanchipe7 joined the game
+[05:56:51] [Server thread/INFO]: juanchipe7[/127.174.93.140:42445] logged in with entity id 113186 at ([world]4437.218277110524, 19.0, 1375.3294758574505)
+[05:57:00] [Server thread/INFO]: Simnov lost connection: Disconnected
+[05:57:00] [Server thread/INFO]: Simnov left the game
+[05:57:05] [User Authenticator #9/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[05:57:07] [Server thread/INFO]: Simnov joined the game
+[05:57:07] [Server thread/INFO]: Simnov[/127.232.216.24:41283] logged in with entity id 113445 at ([world]384.8509788309858, -5.0, -68.86185493808522)
+[05:57:43] [Server thread/INFO]: Simnov lost connection: Disconnected
+[05:57:43] [Server thread/INFO]: Simnov left the game
+[05:57:48] [User Authenticator #9/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[05:57:49] [Server thread/INFO]: Simnov joined the game
+[05:57:49] [Server thread/INFO]: Simnov[/127.232.216.24:55421] logged in with entity id 113750 at ([world]396.2277435140178, -5.0, -82.53293887407644)
+[05:58:44] [Server thread/INFO]: Simnov lost connection: Disconnected
+[05:58:44] [Server thread/INFO]: Simnov left the game
+[05:58:48] [User Authenticator #9/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[05:58:50] [Server thread/INFO]: Simnov joined the game
+[05:58:50] [Server thread/INFO]: Simnov[/127.232.216.24:58759] logged in with entity id 114062 at ([world]388.20315146487076, -5.0, -68.61534890525473)
+[05:59:04] [Server thread/INFO]: Simnov lost connection: Disconnected
+[05:59:04] [Server thread/INFO]: Simnov left the game
+[06:00:12] [User Authenticator #10/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[06:00:14] [Server thread/INFO]: Simnov joined the game
+[06:00:14] [Server thread/INFO]: Simnov[/127.232.216.24:50169] logged in with entity id 114345 at ([world]389.97026781215976, -6.0, -64.97849239835097)
+[06:03:34] [Server thread/INFO]: Simnov lost connection: Disconnected
+[06:03:34] [Server thread/INFO]: Simnov left the game
+[06:03:39] [User Authenticator #11/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[06:03:41] [Server thread/INFO]: Simnov joined the game
+[06:03:41] [Server thread/INFO]: Simnov[/127.232.216.24:40929] logged in with entity id 115248 at ([world]391.0455849841111, -9.0, -49.345870124912494)
+[06:08:54] [Server thread/INFO]: Simnov lost connection: Disconnected
+[06:08:54] [Server thread/INFO]: Simnov left the game
+[06:10:05] [User Authenticator #12/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[06:10:06] [Server thread/INFO]: Simnov joined the game
+[06:10:06] [Server thread/INFO]: Simnov[/127.232.216.24:40239] logged in with entity id 116962 at ([world]446.0195467804659, -8.0, -50.500849847658166)
+[06:11:26] [Server thread/INFO]: Simnov lost connection: Disconnected
+[06:11:26] [Server thread/INFO]: Simnov left the game
+[06:11:31] [User Authenticator #13/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[06:11:33] [Server thread/INFO]: Simnov joined the game
+[06:11:33] [Server thread/INFO]: Simnov[/127.232.216.24:55109] logged in with entity id 117595 at ([world]511.5013194006458, -16.0, 30.645987442675708)
+[06:11:52] [Server thread/INFO]: Simnov has made the advancement [Diamonds!]
+[06:17:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+save<--[HERE]
+[06:17:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+backup<--[HERE]
+[06:23:15] [Server thread/INFO]: juanchipe7 has made the advancement [Sneak 100]
+[06:24:43] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[06:24:43] [Server thread/INFO]: juanchipe7 left the game
+[06:24:57] [User Authenticator #14/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[06:24:58] [Server thread/INFO]: juanchipe7 joined the game
+[06:24:58] [Server thread/INFO]: juanchipe7[/127.174.93.140:41511] logged in with entity id 121737 at ([world]4373.983622406226, -15.0, 1542.737290671813)
+[06:27:36] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[06:27:36] [Server thread/INFO]: juanchipe7 left the game
+[06:29:53] [Server thread/INFO]: Simnov lost connection: Disconnected
+[06:29:53] [Server thread/INFO]: Simnov left the game
+[06:31:20] [User Authenticator #15/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[06:31:21] [Server thread/INFO]: juanchipe7 joined the game
+[06:31:21] [Server thread/INFO]: juanchipe7[/127.174.93.140:54057] logged in with entity id 123378 at ([world]4381.313439123138, -14.0, 1581.042399152126)
+[06:33:11] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[06:33:11] [Server thread/INFO]: juanchipe7 left the game
+[06:37:52] [Server thread/INFO]: Stopping the server
+[06:37:52] [Server thread/INFO]: Stopping server
+[06:37:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[06:37:52] [Server thread/INFO]: Saving players
+[06:37:52] [Server thread/INFO]: Saving worlds
+[06:37:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:37:52] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:37:52] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:37:52] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:37:52] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 55 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[06:37:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:37:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:37:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:37:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:37:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[06:37:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:37:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:37:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:37:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:37:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[06:37:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:37:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:37:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:37:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
