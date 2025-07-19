@@ -12,9 +12,11 @@
       "minecraft:forest": "2025-07-19 01:31:06 +0000",
       "minecraft:taiga": "2025-07-19 03:48:45 +0000",
       "minecraft:lush_caves": "2025-07-19 03:27:15 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-19 18:13:43 +0000",
       "minecraft:ice_spikes": "2025-07-19 04:11:57 +0000",
       "minecraft:frozen_ocean": "2025-07-19 04:14:41 +0000",
       "minecraft:frozen_river": "2025-07-19 04:11:54 +0000",
+      "minecraft:deep_frozen_ocean": "2025-07-19 18:15:29 +0000",
       "minecraft:ocean": "2025-07-19 05:07:03 +0000",
       "minecraft:cherry_grove": "2025-07-19 04:33:00 +0000",
       "minecraft:sunflower_plains": "2025-07-19 03:40:02 +0000",
@@ -1614,6 +1616,66 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2025-07-19 05:33:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-19 18:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-19 18:18:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-19 18:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-19 18:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-19 18:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-19 18:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-19 18:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-19 18:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-19 18:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-19 18:23:51 +0000"
     },
     "done": true
   },
