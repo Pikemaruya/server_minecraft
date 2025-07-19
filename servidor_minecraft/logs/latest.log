@@ -94,3 +94,29 @@
 [20:15:54] [Server thread/INFO]: Simnov has made the advancement [Voluntary Exile]
 [20:16:50] [Server thread/INFO]: Simnov lost connection: Disconnected
 [20:16:50] [Server thread/INFO]: Simnov left the game
+[20:25:19] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[20:25:19] [Server thread/INFO]: Pikemaruya left the game
+[20:25:23] [Server thread/INFO]: Stopping the server
+[20:25:23] [Server thread/INFO]: Stopping server
+[20:25:23] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
+[20:25:23] [Server thread/INFO]: Saving players
+[20:25:23] [Server thread/INFO]: Saving worlds
+[20:25:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:25:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:25:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:25:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:25:24] [Server thread/INFO]: [ChunkHolderManager] Saved 756 block chunks, 775 entity chunks, 2 poi chunks in world 'world' in 1.25s
+[20:25:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:25:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:25:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:25:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:25:26] [Server thread/INFO]: [ChunkHolderManager] Saved 392 block chunks, 39 entity chunks, 0 poi chunks in world 'world_nether' in 0.24s
+[20:25:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:25:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:25:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:25:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:25:26] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[20:25:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:25:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:25:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:25:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
