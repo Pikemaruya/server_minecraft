@@ -525,3 +525,16 @@
 [01:57:15] [User Authenticator #4/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
 [01:57:17] [Server thread/INFO]: Pikemaruya joined the game
 [01:57:17] [Server thread/INFO]: Pikemaruya[/127.204.113.126:57627] logged in with entity id 3431 at ([world]-306.65857611150835, 63.5625, -17.29899850561187)
+[02:01:39] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[02:01:39] [Server thread/INFO]: Pikemaruya left the game
+[02:06:03] [User Authenticator #5/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[02:06:04] [Server thread/INFO]: Pikemaruya joined the game
+[02:06:04] [Server thread/INFO]: Pikemaruya[/127.204.113.126:53305] logged in with entity id 4203 at ([world]-341.79956818452723, 41.0, 2.699999988079071)
+[02:06:06] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[02:06:06] [Server thread/INFO]: Pikemaruya left the game
+[02:07:53] [User Authenticator #6/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[02:07:55] [Server thread/INFO]: juanchipe7 joined the game
+[02:07:55] [Server thread/INFO]: juanchipe7[/127.174.93.140:54555] logged in with entity id 4346 at ([world]-30.5, 68.0, 121.5)
+[02:08:05] [User Authenticator #6/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[02:08:06] [Server thread/INFO]: Pikemaruya joined the game
+[02:08:06] [Server thread/INFO]: Pikemaruya[/127.204.113.126:48319] logged in with entity id 4472 at ([world]-341.79956818452723, 41.0, 2.699999988079071)
