@@ -1,141 +1,56 @@
-[00:01:44] [Server thread/INFO]: Pikemaruya issued server command: /skin Pikemaruya
-[00:07:43] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[00:07:43] [Server thread/INFO]: Pikemaruya left the game
-[00:33:16] [Server thread/INFO]: Simnov lost connection: Disconnected
-[00:33:16] [Server thread/INFO]: Simnov left the game
-[00:39:05] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[00:39:05] [Server thread/INFO]: juanchipe7 left the game
-[00:57:16] [User Authenticator #5/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[00:57:18] [Server thread/INFO]: Pikemaruya joined the game
-[00:57:18] [Server thread/INFO]: Pikemaruya[/127.204.113.126:49083] logged in with entity id 92398 at ([world]-2605.643169820872, 74.0, 961.1063466639458)
-[01:04:14] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[01:04:14] [Server thread/INFO]: Pikemaruya left the game
-[01:05:51] [User Authenticator #6/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
-[01:05:53] [Server thread/INFO]: Pikemaruya joined the game
-[01:05:53] [Server thread/INFO]: Pikemaruya[/127.204.113.126:44019] logged in with entity id 93462 at ([world]-2614.7825539788887, 72.0, 964.6751588700579)
-[01:09:43] [Server thread/INFO]: Villager Villager['Villager'/94398, uuid='5630892c-e541-40a6-bfb6-055a19e63fca', l='ServerLevel[world]', x=-2580.64, y=68.94, z=-358.30, cpos=[-162, -23], tl=12459, v=true] died, message: 'Villager was slain by Zombie'
-[01:18:28] [User Authenticator #7/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[01:18:30] [Server thread/INFO]: Simnov joined the game
-[01:18:30] [Server thread/INFO]: Simnov[/127.26.226.121:57345] logged in with entity id 96890 at ([world]458.47463241232583, 64.0, -159.29191963437214)
-[01:30:42] [Server thread/INFO]: Simnov lost connection: Disconnected
-[01:30:42] [Server thread/INFO]: Simnov left the game
-[01:30:47] [User Authenticator #8/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[01:30:48] [Server thread/INFO]: Simnov joined the game
-[01:30:48] [Server thread/INFO]: Simnov[/127.26.226.121:45411] logged in with entity id 103207 at ([world]595.3000000119209, -15.0, -4.153508563673344)
-[01:33:37] [Server thread/INFO]: Simnov has made the advancement [Ice Bucket Challenge]
-[01:38:29] [Server thread/INFO]: Villager Villager['Villager'/102169, uuid='085b6676-41c2-44cc-aaac-efc88875dd0e', l='ServerLevel[world]', x=-2570.31, y=68.00, z=-343.64, cpos=[-161, -22], tl=27227, v=true] died, message: 'Villager was slain by Zombie'
-[01:39:31] [Server thread/INFO]: Pikemaruya has made the advancement [Minecraft: Trial(s) Edition]
-[01:42:35] [User Authenticator #9/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[01:42:36] [Server thread/INFO]: juanchipe7 joined the game
-[01:42:36] [Server thread/INFO]: juanchipe7[/127.174.93.140:34815] logged in with entity id 107017 at ([world]408.45040174024695, 51.0, -329.30203620047433)
-[01:43:44] [Server thread/INFO]: Pikemaruya has made the advancement [Under Lock and Key]
-[02:18:00] [Server thread/INFO]: Simnov has made the advancement [Best Friends Forever]
-[02:39:09] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[02:39:09] [Server thread/INFO]: juanchipe7 left the game
-[02:56:04] [Server thread/INFO]: Villager Villager['Villager'/140073, uuid='75357a2d-e255-463e-86ef-788f9326df6d', l='ServerLevel[world]', x=-2600.13, y=67.19, z=-374.84, cpos=[-163, -24], tl=75361, v=true] died, message: 'Villager suffocated in a wall'
-[03:05:14] [Server thread/INFO]: Simnov has made the advancement [We Need to Go Deeper]
-[03:06:54] [Server thread/INFO]: Villager Villager['Leatherworker'/145808, uuid='e8dcc682-5bff-4302-a099-afbda993b41f', l='ServerLevel[world]', x=-2593.50, y=69.00, z=-354.50, cpos=[-163, -23], tl=85088, v=true] died, message: 'Leatherworker was blown up by Creeper'
-[03:17:29] [User Authenticator #10/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[03:17:30] [Server thread/INFO]: juanchipe7 joined the game
-[03:17:30] [Server thread/INFO]: juanchipe7[/127.174.93.140:60899] logged in with entity id 150206 at ([world]390.10862795349715, 51.0, -339.69999998807907)
-[03:30:59] [Server thread/INFO]: Simnov has made the advancement [Enchanter]
-[03:53:28] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[03:53:28] [Server thread/INFO]: juanchipe7 left the game
-[03:54:36] [User Authenticator #11/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[03:54:38] [Server thread/INFO]: juanchipe7 joined the game
-[03:54:38] [Server thread/INFO]: juanchipe7[/127.174.93.140:49731] logged in with entity id 169029 at ([world]400.5680113783422, 51.0, -331.45957683982)
-[03:55:37] [Server thread/INFO]: Simnov lost connection: Disconnected
-[03:55:37] [Server thread/INFO]: Simnov left the game
-[04:05:38] [User Authenticator #12/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[04:05:40] [Server thread/INFO]: Simnov joined the game
-[04:05:40] [Server thread/INFO]: Simnov[/127.26.226.121:36967] logged in with entity id 171996 at ([world]459.16568701540837, 63.0, -143.92168257031432)
-[04:19:13] [Server thread/INFO]: Pikemaruya has made the advancement [What a Deal!]
-[04:24:28] [Server thread/INFO]: Simnov lost connection: Disconnected
-[04:24:28] [Server thread/INFO]: Simnov left the game
-[04:33:17] [User Authenticator #13/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[04:33:19] [Server thread/INFO]: Simnov joined the game
-[04:33:19] [Server thread/INFO]: Simnov[/127.26.226.121:54365] logged in with entity id 183766 at ([world]464.24605483141767, 64.0, -144.09791849697217)
-[04:50:52] [Server thread/INFO]: Pikemaruya has made the advancement [Enchanter]
-[05:04:12] [Server thread/INFO]: Pikemaruya has made the advancement [Cover Me with Diamonds]
-[05:16:45] [Server thread/INFO]: juanchipe7 has made the advancement [We Need to Go Deeper]
-[05:40:39] [Server thread/INFO]: Pikemaruya has made the advancement [A Terrible Fortress]
-[05:41:07] [Server thread/INFO]: Pikemaruya has made the advancement [Into Fire]
-[05:41:14] [Server thread/INFO]: Pikemaruya has completed the challenge [Hot Tourist Destinations]
-[05:46:48] [Async Chat Thread - #8/INFO]: [Not Secure] <Simnov> ns q mierda le pasa
-[05:46:55] [Async Chat Thread - #9/INFO]: [Not Secure] <Simnov> no me anda ni para google
-[05:48:18] [Async Chat Thread - #10/INFO]: [Not Secure] <Simnov> voy a reiniciar y vuelvo
-[05:48:19] [Server thread/INFO]: Simnov lost connection: Disconnected
-[05:48:19] [Server thread/INFO]: Simnov left the game
-[05:52:37] [Server thread/INFO]: Pikemaruya has made the advancement [Ol' Betsy]
-[05:53:25] [Server thread/INFO]: Pikemaruya has made the advancement [Those Were the Days]
-[05:53:50] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[05:53:50] [Server thread/INFO]: juanchipe7 left the game
-[05:53:53] [Server thread/INFO]: Pikemaruya has made the advancement [War Pigs]
-[05:54:39] [User Authenticator #14/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[05:54:41] [Server thread/INFO]: juanchipe7 joined the game
-[05:54:41] [Server thread/INFO]: juanchipe7[/127.174.93.140:54063] logged in with entity id 217896 at ([world]-26.483952129483704, 23.0, 275.30000001192093)
-[05:54:47] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[05:54:47] [Server thread/INFO]: juanchipe7 left the game
-[05:56:02] [User Authenticator #15/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[05:56:03] [Server thread/INFO]: juanchipe7 joined the game
-[05:56:03] [Server thread/INFO]: juanchipe7[/127.174.93.140:32879] logged in with entity id 218093 at ([world]-29.30000001192093, 20.695124986886977, 278.03094938976176)
-[05:56:09] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[05:56:09] [Server thread/INFO]: juanchipe7 left the game
-[05:57:49] [User Authenticator #16/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[05:57:50] [Server thread/INFO]: juanchipe7 joined the game
-[05:57:50] [Server thread/INFO]: juanchipe7[/127.174.93.140:60733] logged in with entity id 218301 at ([world]-35.703331389766355, 17.0, 279.61494945090806)
-[05:57:53] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[05:57:53] [Server thread/INFO]: juanchipe7 left the game
-[05:58:22] [User Authenticator #16/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[05:58:23] [Server thread/INFO]: juanchipe7 joined the game
-[05:58:23] [Server thread/INFO]: juanchipe7[/127.174.93.140:56745] logged in with entity id 218378 at ([world]-35.408662910119645, 16.0, 277.33054298172084)
-[06:03:02] [User Authenticator #17/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[06:03:04] [Server thread/INFO]: Simnov joined the game
-[06:03:04] [Server thread/INFO]: Simnov[/127.26.226.121:35591] logged in with entity id 219875 at ([world]452.43606497125757, 63.0, -177.74674624963612)
-[06:39:45] [Server thread/INFO]: Simnov lost connection: Disconnected
-[06:39:45] [Server thread/INFO]: Simnov left the game
-[06:39:52] [User Authenticator #18/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[06:39:54] [Server thread/INFO]: Simnov joined the game
-[06:39:54] [Server thread/INFO]: Simnov[/127.26.226.121:33715] logged in with entity id 235458 at ([world]442.1804025464355, 63.0, -148.4276287907272)
-[06:40:40] [Async Chat Thread - #11/INFO]: [Not Secure] <Pikemaruya> 504 67
-[06:45:25] [Server thread/INFO]: Simnov lost connection: Disconnected
-[06:45:25] [Server thread/INFO]: Simnov left the game
-[06:46:42] [User Authenticator #19/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[06:46:43] [Server thread/INFO]: Simnov joined the game
-[06:46:43] [Server thread/INFO]: Simnov[/127.26.226.121:54551] logged in with entity id 237517 at ([world]503.33940049536875, 62.0, 67.74395015389678)
-[06:48:25] [Server thread/INFO]: juanchipe7 has made the advancement [Enchanter]
-[07:03:29] [Server thread/INFO]: Simnov lost connection: Disconnected
-[07:03:29] [Server thread/INFO]: Simnov left the game
-[07:03:35] [User Authenticator #20/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[07:03:37] [Server thread/INFO]: Simnov joined the game
-[07:03:37] [Server thread/INFO]: Simnov[/127.26.226.121:43637] logged in with entity id 243194 at ([world]520.1636805089222, 63.0, 78.23641427561849)
-[07:09:13] [Server thread/INFO]: Simnov lost connection: Disconnected
-[07:09:13] [Server thread/INFO]: Simnov left the game
-[07:17:01] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[07:17:01] [Server thread/INFO]: juanchipe7 left the game
-[07:17:38] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
-[07:17:38] [Server thread/INFO]: Pikemaruya left the game
-[07:17:44] [Server thread/INFO]: Stopping the server
-[07:17:44] [Server thread/INFO]: Stopping server
-[07:17:44] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[07:17:44] [Server thread/INFO]: Saving players
-[07:17:44] [Server thread/INFO]: Saving worlds
-[07:17:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:17:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:17:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:17:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:17:45] [Server thread/INFO]: [ChunkHolderManager] Saved 621 block chunks, 714 entity chunks, 0 poi chunks in world 'world' in 0.91s
-[07:17:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:17:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:17:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:17:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:17:47] [Server thread/INFO]: [ChunkHolderManager] Saved 28 block chunks, 95 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
-[07:17:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:17:47] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:17:47] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:17:47] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:17:47] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[07:17:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:17:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:17:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:17:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:16:45] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[20:16:45] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[20:16:45] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:16:47] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[20:16:47] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - SkinsRestorer (15.7.7)
+[20:16:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:16:56] [ServerMain/INFO]: Loaded 1290 recipes
+[20:16:56] [ServerMain/INFO]: Loaded 1399 advancements
+[20:16:57] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:16:57] [Server thread/INFO]: Loading properties
+[20:16:57] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[20:16:58] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:16:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:16:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:16:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[20:17:00] [Server thread/INFO]: Default game type: SURVIVAL
+[20:17:00] [Server thread/INFO]: Generating keypair
+[20:17:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:17:00] [Server thread/INFO]: Using epoll channel type
+[20:17:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:17:00] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[20:17:00] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[20:17:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:17:00] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[20:17:03] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[20:17:05] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:17:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:17:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:17:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:17:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:17:05] [Server thread/INFO]: Preparing level "world"
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:17:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:17:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:17:08] [Server thread/INFO]: Time elapsed: 2086 ms
+[20:17:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:17:09] [Server thread/INFO]: Time elapsed: 684 ms
+[20:17:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:17:09] [Server thread/INFO]: Time elapsed: 424 ms
+[20:17:09] [Server thread/INFO]: [spark] Starting background profiler...
+[20:17:11] [Server thread/INFO]: Done preparing level "world" (5.579s)
+[20:17:11] [Server thread/INFO]: Running delayed init tasks
+[20:17:11] [Server thread/INFO]: Done (27.582s)! For help, type "help"
+[20:17:11] [Server thread/INFO]: Timings Reset
