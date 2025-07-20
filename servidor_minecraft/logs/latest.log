@@ -8,3 +8,9 @@
 [00:57:16] [User Authenticator #5/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
 [00:57:18] [Server thread/INFO]: Pikemaruya joined the game
 [00:57:18] [Server thread/INFO]: Pikemaruya[/127.204.113.126:49083] logged in with entity id 92398 at ([world]-2605.643169820872, 74.0, 961.1063466639458)
+[01:04:14] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[01:04:14] [Server thread/INFO]: Pikemaruya left the game
+[01:05:51] [User Authenticator #6/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[01:05:53] [Server thread/INFO]: Pikemaruya joined the game
+[01:05:53] [Server thread/INFO]: Pikemaruya[/127.204.113.126:44019] logged in with entity id 93462 at ([world]-2614.7825539788887, 72.0, 964.6751588700579)
+[01:09:43] [Server thread/INFO]: Villager Villager['Villager'/94398, uuid='5630892c-e541-40a6-bfb6-055a19e63fca', l='ServerLevel[world]', x=-2580.64, y=68.94, z=-358.30, cpos=[-162, -23], tl=12459, v=true] died, message: 'Villager was slain by Zombie'
