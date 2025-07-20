@@ -428,6 +428,7 @@
       "minecraft:spider": "2025-07-19 02:53:12 +0000",
       "minecraft:zombie": "2025-07-19 02:42:26 +0000",
       "minecraft:creeper": "2025-07-19 03:02:53 +0000",
+      "minecraft:drowned": "2025-07-20 06:35:51 +0000",
       "minecraft:zombie_villager": "2025-07-20 05:13:46 +0000",
       "minecraft:slime": "2025-07-19 05:55:27 +0000"
     },
@@ -2534,6 +2535,18 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-07-20 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-07-20 06:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-07-20 06:28:35 +0000"
     },
     "done": true
   },
