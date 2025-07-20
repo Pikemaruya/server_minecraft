@@ -10,7 +10,9 @@
       "minecraft:cold_ocean": "2025-07-19 02:57:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 02:39:05 +0000",
       "minecraft:beach": "2025-07-19 02:34:07 +0000",
+      "minecraft:mushroom_fields": "2025-07-20 03:06:49 +0000",
       "minecraft:forest": "2025-07-19 02:34:19 +0000",
+      "minecraft:deep_ocean": "2025-07-20 03:10:10 +0000",
       "minecraft:river": "2025-07-19 02:36:22 +0000",
       "minecraft:birch_forest": "2025-07-19 02:35:18 +0000",
       "minecraft:plains": "2025-07-19 02:56:11 +0000"
@@ -850,6 +852,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:mooshroom": "2025-07-20 03:08:09 +0000",
       "minecraft:cow": "2025-07-19 03:25:50 +0000",
       "minecraft:turtle": "2025-07-19 05:38:01 +0000",
       "minecraft:sheep": "2025-07-19 03:26:34 +0000"
@@ -2320,6 +2323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-20 03:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-20 02:18:00 +0000"
@@ -2338,9 +2347,30 @@
     },
     "done": false
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-07-20 03:05:34 +0000",
+      "minecraft:nether_wastes": "2025-07-20 03:06:34 +0000",
+      "minecraft:soul_sand_valley": "2025-07-20 03:05:15 +0000",
+      "minecraft:warped_forest": "2025-07-20 03:06:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_leggings": "2025-07-20 02:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-20 03:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-20 03:05:14 +0000"
     },
     "done": true
   },
@@ -2362,9 +2392,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-07-20 03:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-07-20 03:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-20 01:50:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-20 03:11:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_the_recipe": "2025-07-20 03:07:28 +0000"
     },
     "done": true
   },
@@ -2374,15 +2428,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-20 03:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-20 03:07:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-20 01:50:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-07-20 03:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-07-20 01:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-20 03:11:43 +0000"
     },
     "done": true
   },
