@@ -473,16 +473,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-07-20 05:41:06 +0000",
       "minecraft:skeleton": "2025-07-19 01:43:38 +0000",
+      "minecraft:witch": "2025-07-19 02:16:13 +0000",
+      "minecraft:wither_skeleton": "2025-07-20 05:41:23 +0000",
+      "minecraft:bogged": "2025-07-20 01:39:40 +0000",
       "minecraft:piglin": "2025-07-19 23:10:06 +0000",
       "minecraft:vindicator": "2025-07-19 05:19:51 +0000",
       "minecraft:breeze": "2025-07-20 01:42:41 +0000",
-      "minecraft:witch": "2025-07-19 02:16:13 +0000",
+      "minecraft:magma_cube": "2025-07-20 05:44:49 +0000",
       "minecraft:spider": "2025-07-19 01:45:23 +0000",
       "minecraft:zombie": "2025-07-19 01:43:55 +0000",
       "minecraft:creeper": "2025-07-19 02:18:00 +0000",
       "minecraft:drowned": "2025-07-19 01:45:01 +0000",
-      "minecraft:bogged": "2025-07-20 01:39:40 +0000",
       "minecraft:evoker": "2025-07-19 05:26:07 +0000"
     },
     "done": false
@@ -1704,9 +1707,10 @@
       "minecraft:crimson_forest": "2025-07-19 22:20:27 +0000",
       "minecraft:nether_wastes": "2025-07-19 20:06:47 +0000",
       "minecraft:soul_sand_valley": "2025-07-19 23:57:02 +0000",
-      "minecraft:warped_forest": "2025-07-19 19:46:53 +0000"
+      "minecraft:warped_forest": "2025-07-19 19:46:53 +0000",
+      "minecraft:basalt_deltas": "2025-07-20 05:41:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -1924,6 +1928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-20 05:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-07-20 05:02:13 +0000"
@@ -1957,6 +1967,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_bricks": "2025-07-20 01:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-20 05:43:43 +0000"
     },
     "done": true
   },
@@ -2146,6 +2162,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-20 05:41:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-07-20 03:56:56 +0000"
@@ -2206,6 +2228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-20 05:44:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-20 03:26:52 +0000"
@@ -2215,6 +2243,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2025-07-20 03:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-20 05:44:36 +0000"
     },
     "done": true
   },
@@ -2260,9 +2294,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-20 05:43:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-20 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-20 05:41:07 +0000"
     },
     "done": true
   },
@@ -2317,6 +2363,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-07-20 05:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-07-20 05:44:37 +0000"
     },
     "done": true
   },
@@ -2383,6 +2435,12 @@
   "minecraft:recipes/building_blocks/prismarine_slab": {
     "criteria": {
       "has_prismarine": "2025-07-20 03:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-20 05:44:36 +0000"
     },
     "done": true
   },
@@ -2494,9 +2552,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-20 05:43:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-07-20 03:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-20 05:41:07 +0000"
     },
     "done": true
   },
