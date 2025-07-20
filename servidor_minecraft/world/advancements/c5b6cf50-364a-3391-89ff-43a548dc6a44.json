@@ -333,6 +333,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-07-19 04:02:24 +0000",
       "minecraft:skeleton": "2025-07-19 02:11:37 +0000",
+      "minecraft:phantom": "2025-07-20 05:12:54 +0000",
       "minecraft:spider": "2025-07-19 03:42:55 +0000",
       "minecraft:zombie": "2025-07-19 02:10:55 +0000",
       "minecraft:creeper": "2025-07-19 05:49:33 +0000",
@@ -2033,9 +2034,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-20 05:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-07-20 05:16:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-20 05:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-20 05:16:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-07-20 04:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-20 05:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-20 05:16:45 +0000"
     },
     "done": true
   },
