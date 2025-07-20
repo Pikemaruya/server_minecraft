@@ -2524,5 +2524,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-20 04:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-20 04:55:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
