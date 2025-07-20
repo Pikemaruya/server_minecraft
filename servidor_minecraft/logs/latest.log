@@ -46,3 +46,6 @@
 [03:54:38] [Server thread/INFO]: juanchipe7[/127.174.93.140:49731] logged in with entity id 169029 at ([world]400.5680113783422, 51.0, -331.45957683982)
 [03:55:37] [Server thread/INFO]: Simnov lost connection: Disconnected
 [03:55:37] [Server thread/INFO]: Simnov left the game
+[04:05:38] [User Authenticator #12/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[04:05:40] [Server thread/INFO]: Simnov joined the game
+[04:05:40] [Server thread/INFO]: Simnov[/127.26.226.121:36967] logged in with entity id 171996 at ([world]459.16568701540837, 63.0, -143.92168257031432)
