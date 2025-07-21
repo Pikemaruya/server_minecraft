@@ -1,122 +1,59 @@
-[05:10:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[05:10:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[05:10:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[05:10:39] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[05:10:39] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[15:33:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[15:33:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[15:33:38] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[15:33:38] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[15:33:38] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.7.7)
-[05:10:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:10:48] [ServerMain/INFO]: Loaded 1290 recipes
-[05:10:48] [ServerMain/INFO]: Loaded 1399 advancements
-[05:10:49] [Server thread/INFO]: Starting minecraft server version 1.21
-[05:10:49] [Server thread/INFO]: Loading properties
-[05:10:49] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[05:10:51] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[05:10:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:10:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:10:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[05:10:52] [Server thread/INFO]: Default game type: SURVIVAL
-[05:10:52] [Server thread/INFO]: Generating keypair
-[05:10:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:10:53] [Server thread/INFO]: Using epoll channel type
-[05:10:53] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[05:10:53] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[05:10:53] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
-[05:10:53] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:10:53] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
-[05:10:56] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[05:10:57] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[05:10:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:10:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:10:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:10:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:10:57] [Server thread/INFO]: Preparing level "world"
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[05:10:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[05:10:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:11:00] [Server thread/INFO]: Time elapsed: 1996 ms
-[05:11:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:11:01] [Server thread/INFO]: Time elapsed: 251 ms
-[05:11:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:11:01] [Server thread/INFO]: Time elapsed: 253 ms
-[05:11:01] [Server thread/INFO]: [spark] Starting background profiler...
-[05:11:02] [Server thread/INFO]: Done preparing level "world" (4.305s)
-[05:11:02] [Server thread/INFO]: Running delayed init tasks
-[05:11:02] [Server thread/INFO]: Done (25.395s)! For help, type "help"
-[05:11:02] [Server thread/INFO]: Timings Reset
-[05:17:44] [User Authenticator #0/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[05:17:47] [Server thread/INFO]: Simnov joined the game
-[05:17:47] [Server thread/INFO]: Simnov[/127.26.226.121:55039] logged in with entity id 25 at ([world]505.30000001192093, 63.0, 73.0912954254111)
-[05:41:39] [User Authenticator #1/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[05:41:41] [Server thread/INFO]: juanchipe7 joined the game
-[05:41:41] [Server thread/INFO]: juanchipe7[/127.174.93.140:40227] logged in with entity id 4975 at ([world]542.9276264727077, 68.0, -261.419054901884)
-[05:42:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Simnov> che
-[05:42:26] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchipe7> que
-[05:42:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Simnov> reinicio la compu y vuelo
-[05:42:33] [Server thread/INFO]: Simnov lost connection: Disconnected
-[05:42:33] [Server thread/INFO]: Simnov left the game
-[05:42:35] [Async Chat Thread - #1/INFO]: [Not Secure] <juanchipe7> dale
-[05:52:10] [User Authenticator #2/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[05:52:13] [Server thread/INFO]: Simnov joined the game
-[05:52:13] [Server thread/INFO]: Simnov[/127.26.226.121:33277] logged in with entity id 7565 at ([world]456.62516400110013, 63.0, -170.45362593493604)
-[05:54:50] [Server thread/INFO]: Simnov lost connection: Disconnected
-[05:54:50] [Server thread/INFO]: Simnov left the game
-[05:54:54] [User Authenticator #3/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[05:54:56] [Server thread/INFO]: Simnov joined the game
-[05:54:56] [Server thread/INFO]: Simnov[/127.26.226.121:60347] logged in with entity id 8815 at ([world]457.2944561693802, 63.0, -161.5186910730299)
-[06:11:41] [Server thread/INFO]: Simnov lost connection: Disconnected
-[06:11:41] [Server thread/INFO]: Simnov left the game
-[06:11:52] [User Authenticator #4/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
-[06:11:55] [Server thread/INFO]: Simnov joined the game
-[06:11:55] [Server thread/INFO]: Simnov[/127.26.226.121:40015] logged in with entity id 12212 at ([world]457.6512525265335, 63.0, -144.18352360370346)
-[06:13:00] [Server thread/INFO]: juanchipe7 has made the advancement [The Parrots and the Bats]
-[06:38:23] [Server thread/INFO]: juanchipe7 has made the advancement [Minecraft: Trial(s) Edition]
-[06:44:02] [Server thread/INFO]: juanchipe7 has made the advancement [Under Lock and Key]
-[07:02:27] [Server thread/WARN]: Couldn't set damage of loot item 1 minecraft:compass
-[07:06:23] [Server thread/INFO]: juanchipe7 has made the advancement [Not Today, Thank You]
-[07:07:47] [Server thread/INFO]: Simnov lost connection: Disconnected
-[07:07:47] [Server thread/INFO]: Simnov left the game
-[07:08:45] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[07:08:45] [Server thread/INFO]: juanchipe7 left the game
-[07:10:39] [User Authenticator #5/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
-[07:10:40] [Server thread/INFO]: juanchipe7 joined the game
-[07:10:40] [Server thread/INFO]: juanchipe7[/127.174.93.140:42133] logged in with entity id 29056 at ([world]-459.88972166806616, -34.0, -190.64306728522595)
-[07:33:30] [Server thread/INFO]: juanchipe7 has made the advancement [Wax Off]
-[07:33:30] [Server thread/INFO]: juanchipe7 has made the advancement [Lighten Up]
-[07:43:07] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
-[07:43:07] [Server thread/INFO]: juanchipe7 left the game
-[07:45:02] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[07:45:05] [Server thread/INFO]: Stopping the server
-[07:45:05] [Server thread/INFO]: Stopping server
-[07:45:05] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.7
-[07:45:05] [Server thread/INFO]: Saving players
-[07:45:05] [Server thread/INFO]: Saving worlds
-[07:45:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 73 entity chunks, 0 poi chunks in world 'world' in 0.04s
-[07:45:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 96 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
-[07:45:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:45:05] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[07:45:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:45:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:45:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:45:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:33:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:33:48] [ServerMain/INFO]: Loaded 1290 recipes
+[15:33:48] [ServerMain/INFO]: Loaded 1399 advancements
+[15:33:48] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:33:48] [Server thread/INFO]: Loading properties
+[15:33:49] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[15:33:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[15:33:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:33:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:33:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[15:33:52] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:52] [Server thread/INFO]: Generating keypair
+[15:33:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:33:52] [Server thread/INFO]: Using epoll channel type
+[15:33:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[15:33:52] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[15:33:52] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.7
+[15:33:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:33:52] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.7
+[15:33:55] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[15:33:57] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[15:33:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:33:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:33:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:33:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:33:57] [Server thread/INFO]: Preparing level "world"
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.7
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7eff058
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[15:33:57] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[15:33:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:34:00] [Server thread/INFO]: Time elapsed: 2109 ms
+[15:34:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:34:00] [Server thread/INFO]: Time elapsed: 453 ms
+[15:34:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:34:01] [Server thread/INFO]: Time elapsed: 296 ms
+[15:34:01] [Server thread/INFO]: [spark] Starting background profiler...
+[15:34:02] [Server thread/INFO]: Done preparing level "world" (4.642s)
+[15:34:02] [Server thread/INFO]: Running delayed init tasks
+[15:34:02] [Server thread/INFO]: Done (25.597s)! For help, type "help"
+[15:34:02] [Server thread/INFO]: Timings Reset
+[15:34:26] [User Authenticator #0/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[15:34:29] [Server thread/INFO]: Simnov joined the game
+[15:34:29] [Server thread/INFO]: Simnov[/127.26.226.121:46033] logged in with entity id 46 at ([world]455.37294121611757, 63.0, -154.6679272018207)
