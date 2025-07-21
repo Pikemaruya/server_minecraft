@@ -57,3 +57,12 @@
 [05:17:44] [User Authenticator #0/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
 [05:17:47] [Server thread/INFO]: Simnov joined the game
 [05:17:47] [Server thread/INFO]: Simnov[/127.26.226.121:55039] logged in with entity id 25 at ([world]505.30000001192093, 63.0, 73.0912954254111)
+[05:41:39] [User Authenticator #1/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[05:41:41] [Server thread/INFO]: juanchipe7 joined the game
+[05:41:41] [Server thread/INFO]: juanchipe7[/127.174.93.140:40227] logged in with entity id 4975 at ([world]542.9276264727077, 68.0, -261.419054901884)
+[05:42:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Simnov> che
+[05:42:26] [Async Chat Thread - #0/INFO]: [Not Secure] <juanchipe7> que
+[05:42:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Simnov> reinicio la compu y vuelo
+[05:42:33] [Server thread/INFO]: Simnov lost connection: Disconnected
+[05:42:33] [Server thread/INFO]: Simnov left the game
+[05:42:35] [Async Chat Thread - #1/INFO]: [Not Secure] <juanchipe7> dale
