@@ -74,3 +74,6 @@
 [21:19:27] [User Authenticator #1/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
 [21:19:28] [Server thread/INFO]: juanchipe7 joined the game
 [21:19:29] [Server thread/INFO]: juanchipe7[/127.174.93.140:38867] logged in with entity id 15217 at ([world]-461.30000001192093, -38.5, -174.69999998807907)
+[21:39:50] [User Authenticator #2/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[21:39:52] [Server thread/INFO]: Simnov joined the game
+[21:39:52] [Server thread/INFO]: Simnov[/127.26.226.121:44379] logged in with entity id 19785 at ([world]479.33518017491, 63.0, -129.45319500355276)
