@@ -99,3 +99,6 @@
 [22:50:18] [Server thread/INFO]: Simnov left the game
 [23:00:24] [Server thread/INFO]: Pikemaruya has made the advancement [Who is Cutting Onions?]
 [23:02:10] [Server thread/INFO]: Villager Villager['Farmer'/41537, uuid='2bd5a461-d802-44f9-b251-31b3d4936e23', l='ServerLevel[world]', x=-2614.56, y=68.42, z=-355.30, cpos=[-164, -23], tl=97615, v=true] died, message: 'Farmer was slain by Zombie'
+[23:09:23] [Server thread/INFO]: Pikemaruya has completed the challenge [Return to Sender]
+[23:14:27] [Server thread/INFO]: Villager Villager['Villager'/47029, uuid='f7488e8e-ebac-43b2-ae17-bded0c373533', l='ServerLevel[world]', x=-2490.71, y=69.00, z=-808.38, cpos=[-156, -51], tl=80914, v=true] died, message: 'Villager was slain by Zombie'
+[23:21:07] [Server thread/INFO]: Pikemaruya has made the advancement [This Boat Has Legs]
