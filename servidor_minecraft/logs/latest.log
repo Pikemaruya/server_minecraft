@@ -77,3 +77,4 @@
 [21:39:50] [User Authenticator #2/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
 [21:39:52] [Server thread/INFO]: Simnov joined the game
 [21:39:52] [Server thread/INFO]: Simnov[/127.26.226.121:44379] logged in with entity id 19785 at ([world]479.33518017491, 63.0, -129.45319500355276)
+[21:49:18] [Server thread/INFO]: Villager Villager['Fletcher'/18362, uuid='599cb78c-f80f-42ac-8847-5e7e13afda8c', l='ServerLevel[world]', x=495.12, y=62.71, z=-128.82, cpos=[30, -9], tl=1144614, v=true] died, message: 'Fletcher was slain by Simnov'
