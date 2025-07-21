@@ -78,3 +78,11 @@
 [21:39:52] [Server thread/INFO]: Simnov joined the game
 [21:39:52] [Server thread/INFO]: Simnov[/127.26.226.121:44379] logged in with entity id 19785 at ([world]479.33518017491, 63.0, -129.45319500355276)
 [21:49:18] [Server thread/INFO]: Villager Villager['Fletcher'/18362, uuid='599cb78c-f80f-42ac-8847-5e7e13afda8c', l='ServerLevel[world]', x=495.12, y=62.71, z=-128.82, cpos=[30, -9], tl=1144614, v=true] died, message: 'Fletcher was slain by Simnov'
+[22:12:16] [Server thread/INFO]: Villager Villager['Villager'/18361, uuid='4997d7d2-7006-4db6-b929-1f42d330bf58', l='ServerLevel[world]', x=551.58, y=68.00, z=-262.08, cpos=[34, -17], tl=1171877, v=true] died, message: 'Villager was slain by Zombie Villager'
+[22:14:02] [Server thread/INFO]: Villager Villager['Villager'/23917, uuid='bbaf9423-2520-4325-a8c6-84f70ed114fe', l='ServerLevel[world]', x=482.43, y=64.00, z=-140.63, cpos=[30, -9], tl=21317, v=true] died, message: 'Villager was slain by Simnov'
+[22:14:06] [Server thread/INFO]: Simnov lost connection: Disconnected
+[22:14:06] [Server thread/INFO]: Simnov left the game
+[22:14:12] [User Authenticator #3/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[22:14:14] [Server thread/INFO]: Simnov joined the game
+[22:14:14] [Server thread/INFO]: Simnov[/127.26.226.121:56333] logged in with entity id 27319 at ([world]478.74929571220713, 63.0, -135.92952644155883)
+[22:17:15] [Server thread/INFO]: juanchipe7 has made the advancement [Voluntary Exile]
