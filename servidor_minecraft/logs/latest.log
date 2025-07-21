@@ -86,3 +86,11 @@
 [22:14:14] [Server thread/INFO]: Simnov joined the game
 [22:14:14] [Server thread/INFO]: Simnov[/127.26.226.121:56333] logged in with entity id 27319 at ([world]478.74929571220713, 63.0, -135.92952644155883)
 [22:17:15] [Server thread/INFO]: juanchipe7 has made the advancement [Voluntary Exile]
+[22:24:42] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[22:24:42] [Server thread/INFO]: juanchipe7 left the game
+[22:24:51] [User Authenticator #4/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[22:24:53] [Server thread/INFO]: juanchipe7 joined the game
+[22:24:53] [Server thread/INFO]: juanchipe7[/127.174.93.140:59289] logged in with entity id 29705 at ([world]447.530194281494, 63.0, -143.8750954728737)
+[22:32:14] [User Authenticator #5/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[22:32:16] [Server thread/INFO]: Pikemaruya joined the game
+[22:32:16] [Server thread/INFO]: Pikemaruya[/127.204.113.126:59245] logged in with entity id 31405 at ([world_nether]-414.04790862852934, 60.0, -530.1499915233426)
