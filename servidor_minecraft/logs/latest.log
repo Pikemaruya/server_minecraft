@@ -104,3 +104,4 @@
 [23:07:26] [User Authenticator #8/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
 [23:07:28] [Server thread/INFO]: Simnov joined the game
 [23:07:28] [Server thread/INFO]: Simnov[/127.26.226.121:56087] logged in with entity id 43401 at ([world]471.96121859577164, 63.0, -209.92928110730975)
+[23:29:41] [Server thread/INFO]: Villager Villager['Villager'/37308, uuid='31923903-27fa-44b8-b634-ef9fe9979803', l='ServerLevel[world]', x=487.98, y=63.00, z=-155.29, cpos=[30, -10], tl=43727, v=true] died, message: 'Villager burned to death'
