@@ -122,3 +122,4 @@
 [23:41:24] [Server thread/INFO]: juanchipe7 joined the game
 [23:41:24] [Server thread/INFO]: juanchipe7[/127.174.93.140:38099] logged in with entity id 64686 at ([world_the_end]25.018880017065793, 1.0, 215.79915996699404)
 [23:43:16] [Server thread/INFO]: Pikemaruya has reached the goal [Sky's the Limit]
+[23:47:35] [Server thread/INFO]: Villager Villager['Villager'/66095, uuid='43b3186d-c93b-46af-9fef-206c6e1c1e41', l='ServerLevel[world]', x=488.10, y=63.00, z=-148.64, cpos=[30, -10], tl=4429, v=true] died, message: 'Villager burned to death'
