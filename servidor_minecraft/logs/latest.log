@@ -103,3 +103,15 @@
 [06:25:45] [Server thread/INFO]: Pikemaruya issued server command: /gamemode survival
 [06:25:45] [Server thread/INFO]: [Pikemaruya: Set own game mode to Survival Mode]
 [06:26:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Pikemaruya> 300 13 1779
+[06:26:26] [Async Chat Thread - #0/INFO]: [Not Secure] <Pikemaruya> 1769
+[06:29:28] [Server thread/INFO]: Pikemaruya has made the advancement [The End?]
+[06:29:29] [Server thread/INFO]: Simnov has made the advancement [The End?]
+[06:29:30] [Server thread/INFO]: juanchipe7 has made the advancement [The End?]
+[06:29:32] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[06:29:32] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[06:30:15] [Server thread/INFO]: Simnov lost connection: Disconnected
+[06:30:15] [Server thread/INFO]: Simnov left the game
+[06:30:22] [User Authenticator #5/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[06:30:24] [Server thread/INFO]: Simnov joined the game
+[06:30:24] [Server thread/INFO]: Simnov[/127.26.226.121:39345] logged in with entity id 81063 at ([world_the_end]45.3313497942888, 58.29729190874455, -2.300000011920929)
+[06:33:16] [Server thread/INFO]: Simnov was doomed to fall by Ender Dragon

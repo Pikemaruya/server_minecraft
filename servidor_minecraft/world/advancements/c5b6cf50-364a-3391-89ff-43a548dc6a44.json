@@ -14,6 +14,7 @@
       "minecraft:forest": "2025-07-19 02:08:14 +0000",
       "minecraft:taiga": "2025-07-19 04:33:31 +0000",
       "minecraft:deep_ocean": "2025-07-23 01:57:35 +0000",
+      "minecraft:lush_caves": "2025-07-23 06:23:16 +0000",
       "minecraft:deep_cold_ocean": "2025-07-19 05:23:23 +0000",
       "minecraft:ice_spikes": "2025-07-19 05:00:10 +0000",
       "minecraft:frozen_ocean": "2025-07-19 05:04:15 +0000",
@@ -345,6 +346,7 @@
       "minecraft:piglin": "2025-07-20 05:24:02 +0000",
       "minecraft:breeze": "2025-07-21 07:08:28 +0000",
       "minecraft:enderman": "2025-07-21 22:23:20 +0000",
+      "minecraft:silverfish": "2025-07-23 06:22:31 +0000",
       "minecraft:spider": "2025-07-19 03:42:55 +0000",
       "minecraft:zombie": "2025-07-19 02:10:55 +0000",
       "minecraft:creeper": "2025-07-19 05:49:33 +0000",
@@ -2993,12 +2995,6 @@
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2025-07-23 06:19:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-07-23 05:58:29 +0000"
@@ -3008,6 +3004,36 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-23 05:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-07-23 06:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-07-23 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-07-23 06:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-07-23 06:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-07-23 06:29:30 +0000"
     },
     "done": true
   },
