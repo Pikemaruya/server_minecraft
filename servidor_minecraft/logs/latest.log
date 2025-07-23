@@ -81,3 +81,26 @@
 [22:37:07] [User Authenticator #5/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
 [22:37:08] [Server thread/INFO]: juanchipe7 joined the game
 [22:37:08] [Server thread/INFO]: juanchipe7[/127.174.93.140:47665] logged in with entity id 26603 at ([world_the_end]24.889086356980457, 1.0, 212.62832158759147)
+[22:43:12] [User Authenticator #6/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[22:43:15] [Server thread/INFO]: Simnov joined the game
+[22:43:15] [Server thread/INFO]: Simnov[/127.26.226.121:56241] logged in with entity id 29208 at ([world]467.3850807371532, 63.0, -144.3781417022374)
+[22:55:15] [Server thread/INFO]: Simnov lost connection: Disconnected
+[22:55:15] [Server thread/INFO]: Simnov left the game
+[22:56:14] [Server thread/INFO]: Pikemaruya issued server command: /gamerule keepInventory true
+[22:56:14] [Server thread/INFO]: [Pikemaruya: Gamerule keepInventory is now set to: true]
+[22:57:58] [Server thread/INFO]: Pikemaruya issued server command: /gamerule keepInventory true
+[22:57:58] [Server thread/INFO]: [Pikemaruya: Gamerule keepInventory is now set to: true]
+[22:58:01] [Server thread/INFO]: Pikemaruya issued server command: /gamerule keepInventory true
+[22:58:01] [Server thread/INFO]: [Pikemaruya: Gamerule keepInventory is now set to: true]
+[22:58:10] [User Authenticator #7/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[22:58:12] [Server thread/INFO]: Simnov joined the game
+[22:58:12] [Server thread/INFO]: Simnov[/127.26.226.121:37417] logged in with entity id 40389 at ([world_the_end]22.446891967162856, -25.731430514316443, 215.928918101625)
+[22:58:15] [Server thread/INFO]: Pikemaruya issued server command: /tp Simnov Pikemaruya
+[22:58:15] [Server thread/INFO]: [Pikemaruya: Teleported Simnov to Pikemaruya]
+[22:58:16] [Server thread/INFO]: Simnov fell from a high place
+[23:04:42] [Server thread/INFO]: Pikemaruya has made the advancement [The City at the End of the Game]
+[23:07:20] [Server thread/INFO]: Simnov lost connection: Disconnected
+[23:07:20] [Server thread/INFO]: Simnov left the game
+[23:07:26] [User Authenticator #8/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[23:07:28] [Server thread/INFO]: Simnov joined the game
+[23:07:28] [Server thread/INFO]: Simnov[/127.26.226.121:56087] logged in with entity id 43401 at ([world]471.96121859577164, 63.0, -209.92928110730975)
