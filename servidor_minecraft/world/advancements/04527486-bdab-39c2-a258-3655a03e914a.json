@@ -2955,21 +2955,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_quartz": "2025-07-23 06:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-07-23 06:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-23 06:44:56 +0000"
+      "shot_arrow": "2025-07-23 06:37:19 +0000"
     },
     "done": true
   },
@@ -2979,15 +2967,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-23 06:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-07-23 06:44:56 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
-      "shot_arrow": "2025-07-23 06:37:19 +0000"
+      "has_nether_bricks": "2025-07-23 06:44:56 +0000"
     },
     "done": true
   },
@@ -3021,15 +3015,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 06:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-23 06:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-23 06:54:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_wall": {
+  "minecraft:recipes/redstone/observer": {
     "criteria": {
-      "has_nether_bricks": "2025-07-23 06:44:56 +0000"
+      "has_quartz": "2025-07-23 06:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-23 06:58:09 +0000"
     },
     "done": true
   },
@@ -3045,21 +3057,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-07-23 06:43:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-23 06:58:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-07-23 06:44:56 +0000"
     },
     "done": true
   },
