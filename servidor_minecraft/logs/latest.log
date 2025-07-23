@@ -86,3 +86,20 @@
 [06:05:41] [Server thread/WARN]: Spruce Boat (vehicle of Pikemaruya) moved wrongly! 0.3601719153707563
 [06:05:41] [Server thread/WARN]: Spruce Boat (vehicle of Pikemaruya) moved wrongly! 0.5315424573186647
 [06:05:41] [Server thread/WARN]: Spruce Boat (vehicle of Pikemaruya) moved wrongly! 0.7298835419776424
+[06:17:38] [Server thread/WARN]: Spruce Boat (vehicle of Simnov) moved wrongly! 0.2588835655073467
+[06:17:38] [Server thread/WARN]: Spruce Boat (vehicle of Simnov) moved wrongly! 0.41240362862134816
+[06:17:38] [Server thread/WARN]: Spruce Boat (vehicle of Simnov) moved wrongly! 0.5869533335221604
+[06:17:38] [Server thread/WARN]: Spruce Boat (vehicle of Simnov) moved wrongly! 0.7476011392981263
+[06:18:47] [Server thread/INFO]: Pikemaruya has made the advancement [Eye Spy]
+[06:18:52] [Server thread/INFO]: Simnov has made the advancement [Eye Spy]
+[06:19:01] [Server thread/INFO]: juanchipe7 has made the advancement [Eye Spy]
+[06:21:59] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[06:21:59] [Server thread/INFO]: juanchipe7 left the game
+[06:22:11] [User Authenticator #4/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[06:22:12] [Server thread/INFO]: juanchipe7 joined the game
+[06:22:12] [Server thread/INFO]: juanchipe7[/127.174.93.140:45517] logged in with entity id 79740 at ([world]209.50062612070045, 0.0, 1786.9992858665887)
+[06:25:15] [Server thread/INFO]: Pikemaruya issued server command: /gamemode spectator
+[06:25:15] [Server thread/INFO]: [Pikemaruya: Set own game mode to Spectator Mode]
+[06:25:45] [Server thread/INFO]: Pikemaruya issued server command: /gamemode survival
+[06:25:45] [Server thread/INFO]: [Pikemaruya: Set own game mode to Survival Mode]
+[06:26:17] [Async Chat Thread - #0/INFO]: [Not Secure] <Pikemaruya> 300 13 1779
