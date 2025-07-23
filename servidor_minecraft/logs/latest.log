@@ -60,3 +60,5 @@
 [18:48:22] [User Authenticator #1/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
 [18:48:26] [Server thread/INFO]: Simnov joined the game
 [18:48:26] [Server thread/INFO]: Simnov[/127.26.226.121:46427] logged in with entity id 554 at ([world]464.69999998807907, 64.0, -143.31970761527953)
+[19:06:08] [Server thread/INFO]: Villager Villager['Leatherworker'/7506, uuid='f63d6660-4d30-42a2-b126-c779d5201bdb', l='ServerLevel[world]', x=-2534.62, y=66.00, z=-371.70, cpos=[-159, -24], tl=110085, v=true] died, message: 'Leatherworker was slain by Zombie'
+[19:07:02] [Server thread/INFO]: Villager Villager['Leatherworker'/7509, uuid='c60b876a-5b7c-4f39-a272-3a14582c42c7', l='ServerLevel[world]', x=-2533.13, y=66.77, z=-370.03, cpos=[-159, -24], tl=110492, v=true] died, message: 'Leatherworker was slain by Zombie'
