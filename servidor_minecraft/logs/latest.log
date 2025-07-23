@@ -105,3 +105,20 @@
 [23:07:28] [Server thread/INFO]: Simnov joined the game
 [23:07:28] [Server thread/INFO]: Simnov[/127.26.226.121:56087] logged in with entity id 43401 at ([world]471.96121859577164, 63.0, -209.92928110730975)
 [23:29:41] [Server thread/INFO]: Villager Villager['Villager'/37308, uuid='31923903-27fa-44b8-b634-ef9fe9979803', l='ServerLevel[world]', x=487.98, y=63.00, z=-155.29, cpos=[30, -10], tl=43727, v=true] died, message: 'Villager burned to death'
+[23:33:38] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[23:33:38] [Server thread/INFO]: juanchipe7 left the game
+[23:34:00] [User Authenticator #9/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[23:34:01] [Server thread/INFO]: juanchipe7 joined the game
+[23:34:01] [Server thread/INFO]: juanchipe7[/127.174.93.140:36245] logged in with entity id 57890 at ([world_the_end]24.933334589739474, 1.0, 216.0133036562639)
+[23:34:45] [Server thread/INFO]: Simnov lost connection: Disconnected
+[23:34:45] [Server thread/INFO]: Simnov left the game
+[23:34:51] [User Authenticator #9/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[23:34:53] [Server thread/INFO]: Simnov joined the game
+[23:34:53] [Server thread/INFO]: Simnov[/127.26.226.121:59357] logged in with entity id 58746 at ([world]420.91024727635454, 68.0, -127.60212118485038)
+[23:36:46] [Server thread/INFO]: Villager Villager['Armorer'/58816, uuid='6cd94e04-9df6-41fc-9ab3-c90cf85b7e0c', l='ServerLevel[world]', x=470.01, y=63.00, z=-155.52, cpos=[29, -10], tl=82368, v=true] died, message: 'Armorer burned to death'
+[23:39:48] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[23:39:48] [Server thread/INFO]: juanchipe7 left the game
+[23:41:22] [User Authenticator #10/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[23:41:24] [Server thread/INFO]: juanchipe7 joined the game
+[23:41:24] [Server thread/INFO]: juanchipe7[/127.174.93.140:38099] logged in with entity id 64686 at ([world_the_end]25.018880017065793, 1.0, 215.79915996699404)
+[23:43:16] [Server thread/INFO]: Pikemaruya has reached the goal [Sky's the Limit]
