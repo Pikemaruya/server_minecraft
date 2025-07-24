@@ -3299,6 +3299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-07-24 00:07:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2025-07-23 23:06:47 +0000"
@@ -3308,6 +3314,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-07-23 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-24 00:10:58 +0000"
     },
     "done": true
   },
@@ -3326,6 +3338,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-07-23 23:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-24 00:10:58 +0000"
     },
     "done": true
   },
@@ -3383,6 +3401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-24 00:00:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall": {
     "criteria": {
       "has_end_stone_bricks": "2025-07-23 23:06:48 +0000"
@@ -3398,6 +3422,18 @@
   "minecraft:recipes/decorations/spruce_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-23 22:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-07-24 00:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-24 00:00:38 +0000"
     },
     "done": true
   },
