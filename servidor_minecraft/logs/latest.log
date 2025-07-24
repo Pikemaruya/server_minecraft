@@ -94,3 +94,20 @@
 [06:13:50] [Server thread/WARN]: Spruce Boat (vehicle of juanchipe7) moved wrongly! 0.8973124496496894
 [06:13:50] [Server thread/WARN]: Spruce Boat (vehicle of juanchipe7) moved wrongly! 0.869076205051897
 [06:13:50] [Server thread/WARN]: Spruce Boat (vehicle of juanchipe7) moved wrongly! 0.8414046848074577
+[06:17:37] [Server thread/INFO]: Simnov lost connection: Disconnected
+[06:17:37] [Server thread/INFO]: Simnov left the game
+[06:17:43] [User Authenticator #3/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[06:17:45] [Server thread/INFO]: Simnov joined the game
+[06:17:45] [Server thread/INFO]: Simnov[/127.26.226.121:58171] logged in with entity id 35357 at ([world]546.0482062960463, -14.0, -475.0111050535319)
+[06:22:16] [Server thread/INFO]: Simnov lost connection: Disconnected
+[06:22:16] [Server thread/INFO]: Simnov left the game
+[06:23:02] [User Authenticator #4/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[06:23:03] [Server thread/INFO]: Simnov joined the game
+[06:23:03] [Server thread/INFO]: Simnov[/127.26.226.121:43963] logged in with entity id 39911 at ([world]720.7769620688294, -38.32910093142957, -274.0221574945355)
+[06:23:06] [Server thread/INFO]: Simnov fell from a high place
+[06:25:19] [Server thread/WARN]: Pikemaruya was kicked for floating too long!
+[06:25:19] [Server thread/INFO]: Pikemaruya lost connection: Flying is not enabled on this server
+[06:25:19] [Server thread/INFO]: Pikemaruya left the game
+[06:25:26] [User Authenticator #5/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[06:25:27] [Server thread/INFO]: Pikemaruya joined the game
+[06:25:27] [Server thread/INFO]: Pikemaruya[/127.22.80.231:57175] logged in with entity id 43213 at ([world_nether]-325.4350540243373, 115.84908283702472, -19.62651300480641)
