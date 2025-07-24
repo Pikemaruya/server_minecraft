@@ -10,3 +10,13 @@
 [01:10:50] [User Authenticator #12/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
 [01:10:51] [Server thread/INFO]: Simnov joined the game
 [01:10:51] [Server thread/INFO]: Simnov[/127.26.226.121:46453] logged in with entity id 94876 at ([world_the_end]25.061458447770708, 1.0, 216.17452810123353)
+[01:22:17] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[01:22:17] [Server thread/INFO]: juanchipe7 left the game
+[01:22:45] [User Authenticator #13/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[01:22:47] [Server thread/INFO]: juanchipe7 joined the game
+[01:22:47] [Server thread/INFO]: juanchipe7[/127.174.93.140:60741] logged in with entity id 104001 at ([world_the_end]23.477166478289398, 1.0, 215.69999998807907)
+[01:23:32] [Server thread/INFO]: juanchipe7 lost connection: Timed out
+[01:23:32] [Server thread/INFO]: juanchipe7 left the game
+[01:28:07] [User Authenticator #14/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[01:28:09] [Server thread/INFO]: juanchipe7 joined the game
+[01:28:09] [Server thread/INFO]: juanchipe7[/127.174.93.140:42321] logged in with entity id 105359 at ([world_the_end]23.477166478289398, 1.0, 215.69999998807907)
