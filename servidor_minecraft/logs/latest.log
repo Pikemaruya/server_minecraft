@@ -118,3 +118,7 @@
 [06:30:06] [Server thread/INFO]: Pikemaruya joined the game
 [06:30:06] [Server thread/INFO]: Pikemaruya[/127.22.80.231:37773] logged in with entity id 47084 at ([world_nether]-68.52695050418978, 116.05622476367346, -13.052722756036482)
 [06:33:40] [Server thread/INFO]: Simnov has made the advancement [Cover Me with Diamonds]
+[06:38:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[06:39:12] [Server thread/INFO]: Villager Villager['Villager'/40373, uuid='12d1eae7-3d27-4a9b-9327-748203aa79df', l='ServerLevel[world]', x=484.97, y=63.00, z=-155.54, cpos=[30, -10], tl=24090, v=true] died, message: 'Villager burned to death'
+[06:41:03] [Server thread/INFO]: Simnov lost connection: Disconnected
+[06:41:03] [Server thread/INFO]: Simnov left the game
