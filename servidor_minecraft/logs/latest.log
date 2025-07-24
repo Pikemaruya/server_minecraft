@@ -111,3 +111,10 @@
 [06:25:26] [User Authenticator #5/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
 [06:25:27] [Server thread/INFO]: Pikemaruya joined the game
 [06:25:27] [Server thread/INFO]: Pikemaruya[/127.22.80.231:57175] logged in with entity id 43213 at ([world_nether]-325.4350540243373, 115.84908283702472, -19.62651300480641)
+[06:30:00] [Server thread/WARN]: Pikemaruya was kicked for floating too long!
+[06:30:00] [Server thread/INFO]: Pikemaruya lost connection: Flying is not enabled on this server
+[06:30:00] [Server thread/INFO]: Pikemaruya left the game
+[06:30:04] [User Authenticator #6/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[06:30:06] [Server thread/INFO]: Pikemaruya joined the game
+[06:30:06] [Server thread/INFO]: Pikemaruya[/127.22.80.231:37773] logged in with entity id 47084 at ([world_nether]-68.52695050418978, 116.05622476367346, -13.052722756036482)
+[06:33:40] [Server thread/INFO]: Simnov has made the advancement [Cover Me with Diamonds]
