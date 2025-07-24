@@ -488,6 +488,7 @@
       "minecraft:breeze": "2025-07-20 01:42:41 +0000",
       "minecraft:enderman": "2025-07-23 05:56:59 +0000",
       "minecraft:silverfish": "2025-07-23 06:26:09 +0000",
+      "minecraft:stray": "2025-07-24 07:26:16 +0000",
       "minecraft:magma_cube": "2025-07-20 05:44:49 +0000",
       "minecraft:spider": "2025-07-19 01:45:23 +0000",
       "minecraft:piglin_brute": "2025-07-20 05:54:45 +0000",
@@ -3501,6 +3502,60 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2025-07-24 00:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-24 07:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-24 07:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-24 07:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-24 07:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-24 07:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-07-24 07:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-07-24 07:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-07-24 07:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-24 07:26:43 +0000"
     },
     "done": true
   },
