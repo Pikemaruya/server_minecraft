@@ -60,3 +60,12 @@
 [05:32:02] [User Authenticator #1/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
 [05:32:04] [Server thread/INFO]: Simnov joined the game
 [05:32:04] [Server thread/INFO]: Simnov[/127.26.226.121:46017] logged in with entity id 800 at ([world]464.20482070620375, 64.0, -143.774817550142)
+[05:36:38] [Server thread/INFO]: Villager Villager['Villager'/1069, uuid='ca4672f7-400d-4cc8-a509-aa6b15d990f0', l='ServerLevel[world]', x=487.71, y=63.00, z=-161.26, cpos=[30, -11], tl=5057, v=true] died, message: 'Villager burned to death'
+[05:38:31] [Server thread/INFO]: juanchipe7 issued server command: /msg console hola
+[05:40:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/msg juanchipe7 hola<--[HERE]
+[05:40:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/tell juanchipe7 hola<--[HERE]
+[05:42:14] [User Authenticator #2/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[05:42:17] [Server thread/INFO]: Pikemaruya joined the game
+[05:42:17] [Server thread/INFO]: Pikemaruya[/127.22.80.231:44195] logged in with entity id 3061 at ([world]-2595.0484802478613, 72.0, 936.0347162783944)
